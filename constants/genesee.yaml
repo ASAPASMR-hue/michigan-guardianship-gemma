@@ -1,5 +1,13 @@
 # AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
 # Machine-readable constants for system prompts
+
+# Version information
+version_info:
+  version: "1.0.0"
+  effective_date: "2025-01-31"
+  last_updated: "2025-01-31"
+  update_notes: "Added versioning for security and precedence tracking"
+
 genesee_county_constants:
   court:
     name: "Genesee County Probate Court"

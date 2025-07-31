@@ -8,10 +8,12 @@ import os
 import sys
 import json
 import logging
+import uuid
 from pathlib import Path
-from datetime import datetime
-from flask import Flask, request, jsonify, send_from_directory
+from datetime import datetime, timedelta
+from flask import Flask, request, jsonify, send_from_directory, session
 from flask_cors import CORS
+from flask_session import Session
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -21,6 +23,8 @@ load_dotenv()
 sys.path.append(str(Path(__file__).parent))
 
 from scripts.production_pipeline import GuardianshipRAG
+from server.conversation_state import ConversationState
+from server.state_extractor import StateExtractor
 
 # Configure logging
 logging.basicConfig(
@@ -31,7 +35,23 @@ logger = logging.getLogger(__name__)
 
 # Initialize Flask app
 app = Flask(__name__, static_folder='ui')
-CORS(app, origins=['http://localhost:5000', 'http://127.0.0.1:5000'])
+CORS(app, origins=['http://localhost:5000', 'http://127.0.0.1:5000'], supports_credentials=True)
+
+# Configure session
+app.config['SECRET_KEY'] = os.getenv('FLASK_SECRET_KEY', 'dev-secret-key-change-in-production')
+app.config['SESSION_TYPE'] = 'filesystem'
+app.config['SESSION_FILE_DIR'] = './flask_session/'
+app.config['SESSION_PERMANENT'] = True
+app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=30)
+app.config['SESSION_COOKIE_SECURE'] = False  # Set True in production with HTTPS
+app.config['SESSION_COOKIE_HTTPONLY'] = True
+app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
+
+# Initialize Flask-Session
+Session(app)
+
+# Create session directory if it doesn't exist
+os.makedirs('./flask_session/', exist_ok=True)
 
 # Initialize the RAG pipeline
 rag_pipeline = None
@@ -82,7 +102,80 @@ def health_check():
 
 @app.route('/api/ask', methods=['POST'])
 def ask_question():
-    """Main API endpoint for answering questions"""
+    """Main API endpoint for answering questions - returns structured response with session state"""
+    try:
+        # Initialize RAG if needed
+        initialize_rag()
+        
+        # Get or create session ID
+        if 'session_id' not in session:
+            session['session_id'] = str(uuid.uuid4())
+            session['conversation_state'] = ConversationState().to_json()
+            logger.info(f"New session created: {session['session_id']}")
+        
+        # Get question from request
+        data = request.get_json()
+        if not data or 'question' not in data:
+            return jsonify({
+                "error": "No question provided",
+                "details": "Please include a 'question' field in your request"
+            }), 400
+        
+        question = data['question'].strip()
+        if not question:
+            return jsonify({
+                "error": "Empty question",
+                "details": "Please provide a valid question"
+            }), 400
+        
+        # Log the question with session ID
+        logger.info(f"Session {session['session_id'][:8]}: {question[:100]}...")
+        
+        # Load current conversation state
+        current_state = ConversationState.from_json(session.get('conversation_state', '{}'))
+        
+        # Get structured answer from RAG pipeline with conversation state
+        result = rag_pipeline.get_answer(question, conversation_state=current_state)
+        
+        # Extract state from the exchange
+        if 'data' in result and 'answer_markdown' in result['data']:
+            # Extract facts from this exchange
+            new_state = StateExtractor.extract_from_exchange(
+                user_question=question,
+                assistant_response=result['data']['answer_markdown'],
+                current_state=current_state
+            )
+            
+            # Update session state
+            session['conversation_state'] = new_state.to_json()
+            
+            # Add state info to response
+            result['data']['conversation_state'] = new_state.model_dump()
+            result['data']['state_updates'] = {
+                'extracted_facts': new_state.get_summary(),
+                'has_context': new_state.has_meaningful_context()
+            }
+            
+            # Backward compatibility
+            result['answer'] = result['data']['answer_markdown']
+        
+        # Include session ID in response
+        result['session_id'] = session['session_id']
+        
+        logger.info(f"Session {session['session_id'][:8]}: Response generated with state")
+        return jsonify(result), 200
+        
+    except Exception as e:
+        logger.error(f"Error processing question: {e}")
+        return jsonify({
+            "error": "Internal server error",
+            "details": str(e),
+            "timestamp": datetime.now().isoformat()
+        }), 500
+
+@app.route('/api/ask/structured', methods=['POST'])
+def ask_question_structured():
+    """API endpoint that returns only structured data format"""
     try:
         # Initialize RAG if needed
         initialize_rag()
@@ -103,27 +196,85 @@ def ask_question():
             }), 400
         
         # Log the question
-        logger.info(f"Received question: {question[:100]}...")
+        logger.info(f"Received structured request: {question[:100]}...")
         
-        # Get answer from RAG pipeline
+        # Get structured answer from RAG pipeline
         result = rag_pipeline.get_answer(question)
         
-        # Format response
-        response = {
-            "answer": result.get("answer", "I'm sorry, I couldn't process your question."),
-            "metadata": result.get("metadata", {}),
-            "timestamp": datetime.now().isoformat()
-        }
-        
-        logger.info("Successfully generated response")
-        return jsonify(response), 200
+        # Return only the structured data portion
+        if 'data' in result:
+            return jsonify({
+                "data": result['data'],
+                "metadata": result.get('metadata', {}),
+                "timestamp": result.get('timestamp', datetime.now().isoformat())
+            }), 200
+        else:
+            # Fallback if structure is not available
+            return jsonify({
+                "error": "Structured response not available",
+                "details": "The system returned an unstructured response"
+            }), 500
         
     except Exception as e:
-        logger.error(f"Error processing question: {e}")
+        logger.error(f"Error processing structured question: {e}")
         return jsonify({
             "error": "Internal server error",
             "details": str(e),
             "timestamp": datetime.now().isoformat()
+        }), 500
+
+@app.route('/api/session/state', methods=['GET'])
+def get_session_state():
+    """Get current conversation state"""
+    try:
+        if 'session_id' not in session:
+            return jsonify({
+                "session_id": None,
+                "conversation_state": None,
+                "message": "No active session"
+            }), 200
+        
+        current_state = ConversationState.from_json(session.get('conversation_state', '{}'))
+        
+        return jsonify({
+            "session_id": session['session_id'],
+            "conversation_state": current_state.model_dump(),
+            "context_string": current_state.to_context_string() if current_state.has_meaningful_context() else None,
+            "summary": current_state.get_summary()
+        }), 200
+        
+    except Exception as e:
+        logger.error(f"Error getting session state: {e}")
+        return jsonify({
+            "error": "Failed to get session state",
+            "details": str(e)
+        }), 500
+
+@app.route('/api/session/clear', methods=['POST'])
+def clear_session():
+    """Clear the current session state"""
+    try:
+        if 'session_id' in session:
+            old_session_id = session['session_id']
+            session.clear()
+            logger.info(f"Session cleared: {old_session_id}")
+            
+            return jsonify({
+                "status": "success",
+                "message": "Session cleared successfully",
+                "old_session_id": old_session_id
+            }), 200
+        else:
+            return jsonify({
+                "status": "success",
+                "message": "No active session to clear"
+            }), 200
+            
+    except Exception as e:
+        logger.error(f"Error clearing session: {e}")
+        return jsonify({
+            "error": "Failed to clear session",
+            "details": str(e)
         }), 500
 
 @app.route('/api/feedback', methods=['POST'])

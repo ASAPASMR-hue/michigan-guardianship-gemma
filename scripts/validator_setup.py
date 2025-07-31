@@ -10,7 +10,10 @@ import yaml
 import json
 import re
 from pathlib import Path
-from typing import Dict, List, Tuple, Optional
+from typing import Dict, List, Tuple, Optional, TYPE_CHECKING
+
+if TYPE_CHECKING:
+    from server.schemas import AnswerPayload, Citation, Step
 try:
     from lettucedetect.models.inference import HallucinationDetector
     LETTUCE_AVAILABLE = True
@@ -341,6 +344,95 @@ class ResponseValidator:
             return 1.0 - max_similarity
         else:
             return 0.0
+    
+    def validate_structured(self, answer_payload: 'AnswerPayload', retrieved_chunks: List[str], 
+                        question_type: str, original_query: str) -> Dict:
+        """Validate structured response data"""
+        # First validate the markdown answer as before
+        validation_result = self.validate(
+            response=answer_payload.answer_markdown,
+            retrieved_chunks=retrieved_chunks,
+            question_type=question_type,
+            original_query=original_query
+        )
+        
+        # Add structured data validation
+        structured_validation = {
+            "forms_validated": self._validate_forms(answer_payload.forms, answer_payload.answer_markdown),
+            "fees_validated": self._validate_fees(answer_payload.fees),
+            "citations_complete": self._validate_citations(answer_payload.citations, answer_payload.answer_markdown),
+            "steps_clear": self._validate_steps(answer_payload.steps),
+            "risk_flags_appropriate": self._validate_risk_flags(answer_payload.risk_flags, original_query)
+        }
+        
+        validation_result["structured_validation"] = structured_validation
+        return validation_result
+    
+    def _validate_forms(self, forms: List[str], answer_text: str) -> bool:
+        """Validate that all forms mentioned are correct and present in answer"""
+        valid_forms = ["PC 650", "PC 651", "PC 652", "PC 654", "PC 670", "PC 675", 
+                      "PC 562", "PC 564", "MC 20", "MC 97", "MC 97a"]
+        
+        for form in forms:
+            # Check if form is valid
+            if form not in valid_forms:
+                return False
+            # Check if form is actually mentioned in answer
+            if form not in answer_text:
+                return False
+        
+        return True
+    
+    def _validate_fees(self, fees: List[str]) -> bool:
+        """Validate fee amounts"""
+        for fee in fees:
+            # Check for standard filing fee
+            if "$175" in fee and "filing fee" in fee.lower():
+                continue
+            # Check for fee waiver
+            elif "$0" in fee or "waiver" in fee.lower():
+                continue
+            # Unknown fee amount
+            else:
+                return False
+        return True
+    
+    def _validate_citations(self, citations: List['Citation'], answer_text: str) -> bool:
+        """Validate that citations are properly referenced"""
+        # Check that each citation is referenced in the answer
+        for citation in citations:
+            # Look for the citation reference in the answer
+            if citation.source_id and citation.source_id not in answer_text:
+                # Also check for the title
+                if citation.title not in answer_text:
+                    return False
+        return True
+    
+    def _validate_steps(self, steps: List['Step']) -> bool:
+        """Validate that steps are clear and actionable"""
+        if not steps:
+            return True  # No steps is valid for non-procedural answers
+        
+        # Check that steps are numbered sequentially
+        for i, step in enumerate(steps):
+            if not step.text or len(step.text.strip()) < 10:
+                return False
+        
+        return True
+    
+    def _validate_risk_flags(self, risk_flags: List[str], query: str) -> bool:
+        """Validate that risk flags are appropriate for the query"""
+        valid_flags = ["legal_risk", "out_of_scope", "icwa_sensitive", "emergency", "cps_involved"]
+        
+        for flag in risk_flags:
+            if flag not in valid_flags:
+                return False
+        
+        # Check for missed flags
+        if "emergency" in query.lower() and "legal_risk" not in risk_flags:
+            return False
+        
+        return True
     
     def validate(self, response: str, retrieved_chunks: List[str], 
                 question_type: str, original_query: str) -> Dict:

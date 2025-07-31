@@ -18,7 +18,9 @@ schedule
 psutil
 flask
 flask-cors
+flask-session
 sentence-transformers
 chromadb
 tqdm
 torch
+pydantic>=2.0.0

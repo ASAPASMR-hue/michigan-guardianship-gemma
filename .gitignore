@@ -47,6 +47,9 @@ Thumbs.db
 *.temp
 *.bak
 
+# Flask session files
+flask_session/
+
 # API Keys and secrets
 *api_key*
 *secret*
