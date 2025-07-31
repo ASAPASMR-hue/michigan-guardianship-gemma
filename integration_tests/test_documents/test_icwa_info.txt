@@ -1,0 +1,22 @@
+Michigan Minor Guardianship - ICWA Requirements Test Document
+
+Indian Child Welfare Act (ICWA) and Michigan Indian Family Preservation Act (MIFPA):
+
+When ICWA Applies:
+- The child is a member of a federally recognized Indian tribe
+- The child is eligible for membership in a federally recognized tribe and has a biological parent who is a member
+
+Key Requirements under ICWA/MIFPA:
+1. Tribal Notification: You MUST notify the child's tribe immediately (MCL 712B.15)
+2. The tribe has the right to intervene in the proceedings
+3. Active efforts must be made to prevent the breakup of the Indian family
+4. Placement preferences prioritize Indian families and tribal members
+
+Emergency Guardianships:
+- Even in emergency situations, tribal notification is required
+- The court must ensure ICWA compliance within specified timeframes
+- Temporary emergency removal is limited to prevent imminent physical damage or harm
+
+Important: Failure to comply with ICWA can result in the guardianship being invalidated.
+
+This is a test document for integration testing purposes.

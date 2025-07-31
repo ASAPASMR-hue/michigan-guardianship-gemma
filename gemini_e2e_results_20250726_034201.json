@@ -1,0 +1,36 @@
+{
+  "test_run": "2025-07-26T03:41:59.051077",
+  "model": "gemini-pro",
+  "tests": [
+    {
+      "test_id": "fee_test",
+      "error": "ResponseValidator.validate() missing 1 required positional argument: 'original_query'",
+      "overall_passed": false
+    },
+    {
+      "test_id": "court_location_test",
+      "error": "ResponseValidator.validate() missing 1 required positional argument: 'original_query'",
+      "overall_passed": false
+    },
+    {
+      "test_id": "hearing_day_test",
+      "error": "ResponseValidator.validate() missing 1 required positional argument: 'original_query'",
+      "overall_passed": false
+    },
+    {
+      "test_id": "icwa_test",
+      "error": "ResponseValidator.validate() missing 1 required positional argument: 'original_query'",
+      "overall_passed": false
+    },
+    {
+      "test_id": "fee_waiver_test",
+      "error": "ResponseValidator.validate() missing 1 required positional argument: 'original_query'",
+      "overall_passed": false
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "passed": 0,
+    "failed": 5
+  }
+}

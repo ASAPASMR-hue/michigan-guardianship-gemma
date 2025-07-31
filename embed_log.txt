@@ -1,0 +1,103 @@
+Warning: HUGGING_FACE_HUB_TOKEN not set. Some models may require authentication.
+Set it with: export HUGGING_FACE_HUB_TOKEN='your_token_here'
+Using device: cpu
+Downloading model... this may take a few minutes
+Using existing collection: michigan_guardianship_v2
+Processing 27 documents...
+Chunking documents:   0%|          | 0/27 [00:00<?, ?it/s]Chunking documents:  78%|███████▊  | 21/27 [00:00<00:00, 208.93it/s]Chunking documents: 100%|██████████| 27/27 [00:00<00:00, 253.68it/s]
+Created 50 chunks
+Generating embeddings...
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]Embedding batches:  50%|█████     | 1/2 [01:58<01:58, 118.30s/it]Embedding batches: 100%|██████████| 2/2 [03:40<00:00, 108.64s/it]Embedding batches: 100%|██████████| 2/2 [03:40<00:00, 110.09s/it]
+Adding to ChromaDB...
+Storing in ChromaDB:   0%|          | 0/1 [00:00<?, ?it/s]Storing in ChromaDB: 100%|██████████| 1/1 [00:00<00:00,  4.28it/s]Storing in ChromaDB: 100%|██████████| 1/1 [00:00<00:00,  4.27it/s]
+Successfully embedded 50 chunks into ChromaDB
+
+=== Testing Retrieval ===
+
+Query: 'filing fee genesee'
+Top 5 results:
+
+1. Source: Genesee County Specifics.txt (distance: 0.387)
+   Type: guidance
+   Text: # Genesee County Specific Information - Michigan Minor Guardianship **IMPORTANT**: This document contains county-specific details that must be included in all responses when relevant. These details ov...
+   ✓ Contains expected fee/waiver information
+
+2. Source: Document 8_ Filing for Guardianship – Court Procedures and Forms.txt (distance: 0.418)
+   Type: procedure
+   Text: ﻿ Document 8: Filing for Guardianship - Court Procedures and Forms Introduction: A Step-by-Step Guide to Opening Your Case This guide provides a practical, "nuts-and-bolts" workflow for self-represent...
+   ✓ Contains expected fee/waiver information
+
+3. Source: 8. Filing for Guardianship – Court Procedures and Forms (Draft 3)-2.txt (distance: 0.438)
+   Type: procedure
+   Text: ﻿Document 8: Filing for Guardianship - Court Procedures and Forms Introduction: A Step-by-Step Guide to Opening Your Case This document provides a practical, "nuts-and-bolts" workflow for self-represe...
+   ✓ Contains expected fee/waiver information
+
+4. Source: 2. Full Guardianship of a Minor – Eligibility and Process copy.docx.txt (distance: 0.483)
+   Type: procedure
+   Text: filing specific forms with the Probate Court. Step 1: Gather Initial Documents. Before filing, gather essential documents such as the minor's birth certificate and the death certificate(s) of any dece...
+   ✓ Contains expected fee/waiver information
+
+5. Source: 3. Limited Guardianship of a Minor – Voluntary Arrangement (Draft 2) copy.txt (distance: 0.503)
+   Type: procedure
+   Text: ﻿ Filing-office contact block: Genesee County Probate Court, 900 S. Saginaw St., Room 502, Flint MI 48502 • (810) 257‑3528 [[DOCUMENT NAME: 3. Limited Guardianship of a Minor - Voluntary Arrangement]]...
+   ✓ Contains expected fee/waiver information
+
+Query: 'native american guardianship'
+Top 5 results:
+
+1. Source: 4. Guardianship of Indian Children – ICWA_MIFPA Requirements (Draft 2)-2 copy.docx.txt (distance: 0.402)
+   Type: procedure
+   Text: ﻿Document 4: Guardianship of Indian Children – ICWA/MIFPA Requirements Why you're here: This guide explains the special legal rules that apply when you ask a Michigan court to appoint a guardian for a...
+   ✓ Contains ICWA-related content
+
+2. Source: pc675.pdf (distance: 0.417)
+   Type: form
+   Forms: PC 675
+   Text: PCS Code: PTG TCS Code: PMGC STATE OF MICHIGAN CASE NO. and JUDGE PETITION TO PROBATE COURT TERMINATE MODIFY COUNTY GUARDIANSHIP LEGALLY INCAPACITATED INDIVIDUAL MINOR Court address Court telephone no...
+   ✓ Contains ICWA-related content
+
+3. Source: pc670.pdf (distance: 0.422)
+   Type: form
+   Forms: PC 670
+   Text: Approved, SCAO JIS CODE: MGS STATE OF MICHIGAN FILE NO. PROBATE COURT MINOR GUARDIANSHIP COUNTY OF SOCIAL HISTORY USE NOTE: File this form with the petition for appointment of guardian. This informati...
+   ✓ Contains ICWA-related content
+
+4. Source: GM-PSH.pdf (distance: 0.435)
+   Type: form
+   Text: STATE OF MICHIGAN ORDER FOR FILE NO.: PROBATE COURT PROTECTIVE SERVICES COUNTY OF GENESEE HISTORY CHECK IN THE MATTER OF: A petition for limited/full guardianship of a minor has been filed. The Depart...
+
+5. Source: Michigan Minor Guardianship Knowledge Base Index copy.txt (distance: 0.439)
+   Type: guidance
+   Text: - Annual Report of Guardian on Condition of Minor 14. PC 670 - Minor Guardianship Social History 15. PC 678 - Notice of Guardianship Petition for Indian Child Genesee County Local Forms: 16. Authoriza...
+   ✓ Contains ICWA-related content
+
+Query: 'thursday hearing'
+Top 5 results:
+
+1. Source: pc562.pdf (distance: 0.380)
+   Type: form
+   Forms: PC 562
+   Text: Approved, SCAO JIS CODE: NOH STATE OF MICHIGAN FILE NO. PROBATE COURT NOTICE OF HEARING COUNTY OF In the matter of First, middle, and last name TAKE NOTICE: A hearing will be held on at , Date Time at...
+   ✓ Contains hearing schedule information
+
+2. Source: GM-PSH.pdf (distance: 0.431)
+   Type: form
+   Text: STATE OF MICHIGAN ORDER FOR FILE NO.: PROBATE COURT PROTECTIVE SERVICES COUNTY OF GENESEE HISTORY CHECK IN THE MATTER OF: A petition for limited/full guardianship of a minor has been filed. The Depart...
+   ✓ Contains hearing schedule information
+
+3. Source: GM-NRS-MINOR.pdf (distance: 0.432)
+   Type: form
+   Text: NRS STATE OF MICHIGAN FILE NO. MINOR GUARDIANSHIP COUNTY OF GENESEE NOTICE REQUIREMENTS PROBATE COURT As a petitioner, you must give notice of the time and place of the scheduled hearing to each of th...
+   ✓ Contains hearing schedule information
+
+4. Source: pc654.pdf (distance: 0.472)
+   Type: form
+   Forms: PC 654
+   Text: JIS Code: AGM STATE OF MICHIGAN CASE NO. and JUDGE PROBATE COURT ANNUAL REPORT OF GUARDIAN COUNTY ON CONDITION OF MINOR Court address Court telephone no. In the matter of First, middle, and last name ...
+
+5. Source: 8. Filing for Guardianship – Court Procedures and Forms (Draft 3)-2.txt (distance: 0.478)
+   Type: procedure
+   Text: The Minor: Required if the minor is 14 years of age or older. ●​ The Minor's Parents: Both legal parents must be served. ●​ Adult Nearest of Kin: Required only if no parent is living. This includes gr...
+   ✓ Contains hearing schedule information
+
+✓ Document embedding pipeline completed successfully!

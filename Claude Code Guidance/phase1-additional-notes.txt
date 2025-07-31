@@ -1,0 +1,17 @@
+1. In embedding (embed_kb.py):
+   • Expand core PDFs to embed: In addition to pc651.pdf, pc654.pdf, pc562.pdf, include pc650.pdf (limited petition), pc652.pdf (limited placement plan), pc670.pdf (social history), pc675.pdf (terminate/modify), pc564.pdf (proof of service). Also embed Genesee local PDFs: GM-ARI.pdf, GM-PSH.pdf, GM-NRS-MINOR.pdf (from kb_files/Court Forms/Genesee County Specific/).
+   • For metadata: Use doc_type="form" for all PDFs, "procedure" for KB (Numbered) TXT, "guidance" for Instructive TXT and docs/Project_Guidance_v2.1.md. Add "form_numbers" metadata (e.g., ["PC 651"]) where applicable from constants/genesee.yaml.
+   • Handle PDF extraction robustly: Use pdfplumber for better text preservation (e.g., form fields like "I REQUEST:" in PC 651).
+
+2. In validation (validator_setup.py):
+   • Install lettucedetect if needed (add to requirements.txt or pip install in script).
+   • Load Genesee patterns from constants/genesee.yaml (e.g., filing_fee: 175, hearing_days: ["Thursday"]).
+   • For out-of-scope: Generate redirect responses based on patterns/out_of_scope.json (e.g., "For adult guardianship, contact an elder law attorney.").
+
+3. In eval_rubric.py:
+   • Integrate with guardianship_qa_cleaned - rubric_determining-2.csv: Add a function to score a random sample row.
+
+4. General:
+   • In Makefile phase1 target: Sequence as embed_kb.py -> retrieval_setup.py -> validator_setup.py -> eval_rubric.py.
+   • Error handling: Add try/except for imports (e.g., if torch CUDA fails, fallback to CPU).
+   • Testing: Add a query test for ICWA (e.g., "native american guardianship") to ensure specialized chunks retrieve correctly.

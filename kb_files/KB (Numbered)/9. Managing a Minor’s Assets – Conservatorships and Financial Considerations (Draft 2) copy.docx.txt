@@ -1,0 +1,200 @@
+﻿Document 9: Managing a Minor’s Assets – Conservatorships and Financial Considerations
+Introduction
+While a guardian cares for a minor's personal well-being (like housing, health, and education), a conservator is appointed by the probate court to manage a minor's property and money.
+When a Michigan minor is entitled to receive money or property worth more than $5,000 in a single calendar year—for example, from a personal injury settlement, an inheritance, or life insurance proceeds—the court usually must appoint a conservator to safeguard and manage the child’s assets (MCL 700.5401, .5408). This document explains:
+* The dollar threshold and other triggers for a conservatorship;
+* Less-restrictive alternatives such as restricted bank accounts and trusts;
+* How to petition for appointment, including notice and bond requirements;
+* The conservator’s fiduciary duties (inventory, restricted accounts, annual accountings); and
+* How and when the conservatorship ends.
+When is a Conservator Needed?
+A conservatorship is required when a minor owns money or property that needs court-supervised management. The most common triggers are:
+* Financial Threshold: The minor will receive more than $5,000 from any single source (like an insurance company or an estate) in one year. This limit applies per payor, per year.
+* Property Ownership: The minor owns real estate, a business interest, or other significant property that cannot be easily held in a restricted account.
+* Specific Need: Any person can petition for a conservator if they can show the minor has assets that will be wasted or dissipated without proper management.
+Who May Petition?
+A petition for the appointment of a conservator may be filed by:
+* The minor, if they are 14 years of age or older.
+* A person interested in the minor's estate, affairs, or welfare, including a parent or guardian.
+* A person who would be "adversely affected by lack of effective management" of the minor's property and business affairs (MCL 700.5404(1)).
+Alternatives to Full Conservatorship
+Before petitioning for a full conservatorship, consider if a less restrictive option can protect the minor's assets (MCL 700.5408). The court can approve:
+* Protective Order & Restricted Account: The most common alternative. The court can order settlement funds to be deposited into a restricted bank account that the minor cannot access until they turn 18. The order specifies that no withdrawals can be made without a subsequent court order.
+* Trusts: Money can be placed in a trust for the minor's benefit, including a special needs trust if the minor has a disability.
+* Structured Settlement: An annuity that pays out funds to the minor over time, often beginning when they turn 18.
+* Uniform Transfers to Minors Act (UTMA) or 529 Accounts: These are custodial accounts for education or other expenses, but may not be suitable for large, court-supervised settlements.
+* Representative Payee: For government benefits like Social Security, the agency can appoint a representative payee to manage funds for the minor, often without needing a conservatorship.
+Reminder: A Conservator Manages the Minor's Money, Not the Parents'
+A conservator’s primary duty is to protect the minor's assets. These funds belong to the child, not the family. Parents remain legally responsible for the ordinary costs of supporting their child. A conservatorship cannot be used to pay for a parent's living expenses or to substitute for a parent's legal duty of support.
+For more on this distinction, see Document 7: Guardian's Duties and Responsibilities.
+How to Petition for a Conservatorship
+The process is similar to filing for guardianship and involves a petition, notice to interested parties, a hearing, and the judge's approval.
+Key Forms
+Start the Case: PC 639 (Petition for Appointment of Conservator) - Filed at the beginning of the case.
+* Give Notice of Hearing: PC 562 (Notice of Hearing) - Filed after filing the petition and getting a hearing date.
+* Accept the Role: PC 571 (Acceptance of Appointment) - Filed after the judge approves the petition at the hearing.
+* Prove Authority: PC 642 (Letters of Conservatorship) - Issued by the court after the conservator files the Acceptance and any required bond.
+* List the Assets: PC 674 (Inventory) - Filed within 56 days of appointment.
+* File Annual Report: PC 583 / PC 584 (Account of Fiduciary) - Filed annually, within 56 days of the anniversary of appointment.
+* Ask to Use Funds: PC 673 (Petition and Order to Use Funds) - Filed whenever you need to spend the minor's money.
+* Start the Case: PC 639 (Petition for Appointment of Conservator) - Filed at the beginning of the case.
+* Give Notice of Hearing: PC 562 (Notice of Hearing) - Filed after filing the petition and getting a hearing date.
+* Accept the Role: PC 571 (Acceptance of Appointment) - Filed after the judge approves the petition at the hearing.
+* Prove Authority: PC 642 (Letters of Conservatorship) - Issued by the court after the conservator files the Acceptance and any required bond.
+* List the Assets: PC 674 (Inventory) - Filed within 56 days of appointment.
+* File Annual Report: PC 583 / PC 584 (Account of Fiduciary) - Filed annually, within 56 days of the anniversary of appointment.
+* Ask to Use Funds: PC 673 (Petition and Order to Use Funds) - Filed whenever you need to spend the minor's money.
+The Bond Requirement
+The court may require the proposed conservator to post a bond. This is an insurance policy that protects the minor's assets from mismanagement or theft.
+* The court determines the amount of the bond needed to protect the unrestricted assets (i.e., funds not held in a restricted account).
+* The court may waive the bond if the assets are placed in a restricted account or if other protections are in place (MCL 700.5410; MCR 5.411).
+Duties After Appointment
+A conservator is a fiduciary, which means they have a legal duty to act with the highest degree of good faith and loyalty on behalf of the minor (the "protected person"). Core duties include:
+* Marshaling Assets: Locating and taking control of all the minor's property.
+* Filing an Inventory: Creating a detailed list of all assets and their value.
+* Prudent Investment: Managing and investing the assets wisely and cautiously.
+* Keeping Records: Maintaining meticulous records of all income received and all expenses paid.
+* Seeking Court Approval: Filing petitions for any significant transactions, such as selling real estate or settling a legal claim.
+Inventories and Accountings
+Accountability to the court is central to a conservatorship.
+* Initial Inventory (PC 674): Within 56 days of being appointed, the conservator must file a detailed inventory with the court listing all the minor's assets, their fair market value, and any associated debts or liens. This must be served on the protected person (if 14+), presumptive heirs, and other interested persons (MCL 700.5417; MCR 5.409(B)).
+* Annual Account (PC 583 or PC 584): The conservator must file an account with the court every year, within 56 days of the anniversary of their appointment. This account must:
+   * Itemize all income and receipts.
+   * Itemize all expenses and disbursements.
+   * Be supported by receipts and bank statements.
+   * Be served on all interested persons.
+Common Red Flags for a Conservatorship
+Josef can help users identify potential problems by flagging these common issues:
+* Filing annual accounts late or not at all.
+* Making large or unexplained cash withdrawals.
+* Failing to provide receipts for expenditures.
+* Selling the minor's real estate without a court order.
+* Using the minor's funds for the conservator's or parents' benefit.
+Modification and Termination
+A conservatorship automatically terminates when the minor turns 18, is adopted, or dies. To be formally discharged from their duties and have the bond released, the conservator must:
+1. File a Final Account: This accounting covers the period since the last annual account was filed.
+2. Transfer Assets: The conservator must turn over all remaining property to the protected person (who is now an adult) or to the personal representative of their estate if they are deceased (MCL 700.5426(3)).
+3. File a Receipt: The conservator must file a receipt signed by the now-adult protected person, confirming they have received all their assets.
+4. Petition for Discharge: The conservator then petitions the court to approve the final account and discharge them from all liability (MCL 700.5431).
+
+
+Navigating the transition from minor guardianship or conservatorship as a Michigander approaches adulthood involves distinct legal processes and important considerations. Here’s an in-depth look at what the sources indicate regarding post-age-18 transition issues, including continuing special-needs guardianship, adult conservatorship, and related financial aspects like SSI.
+Automatic Termination of Minor Guardianship and Conservatorship
+For a minor guardianship, the authority and responsibility of the guardian automatically terminate without a court order when the minor reaches the age of majority, which is 18 years old. This automatic termination also applies if the minor dies or is adopted. While historically marriage also terminated a minor guardianship, Michigan law (MCL 551.51, effective September 19, 2023) now prohibits individuals under 18 from marrying, though some court rules and statutes have not yet been amended to reflect this change.
+Similarly, a conservatorship established for a minor automatically terminates when the minor reaches the age of majority. Upon this termination, the conservator is generally required to pay over and distribute all remaining money and property to the formerly protected individual (now an adult), after meeting all claims and administration expenses. The court must approve the final account to ensure assets were properly protected and preserved, and the minor, now an adult, must sign a receipt for these remaining assets.
+Continuing Guardianship or Conservatorship for Adults
+The automatic termination of minor guardianship at age 18 means that if an individual still requires legal protection or assistance with their person or estate after turning 18, a new, separate legal process must be initiated. Michigan law provides for guardianships of legally incapacitated individuals and individuals with developmental disabilities, as well as conservatorships for protected adults. These are distinct from minor guardianships and are governed by different sections of the Estates and Protected Individuals Code (EPIC) or the Michigan Mental Health Code (MMHC).
+1. Guardianship of a Legally Incapacitated Individual (LII)
+* Definition: An "incapacitated individual" is defined as a person impaired by mental illness, mental deficiency, physical illness or disability, chronic drug use, or chronic intoxication (among other causes, but not including minority) to the extent they lack sufficient understanding or capacity to make or communicate informed decisions. This clearly applies to individuals who turn 18 and still need personal care and supervision.
+* Appointment: A petition can be filed by the individual themselves or anyone interested in their welfare. Before a petition for full guardianship is filed, the court must provide information on less restrictive alternatives, such as limited guardianship, conservatorship, patient advocate designations, or durable powers of attorney.
+* Court Review: Guardianships for legally incapacitated individuals are subject to ongoing court oversight. They are court-reviewed on the first anniversary of appointment and every three years thereafter. The guardian must also report annually on the ward's condition.
+* Termination: The authority of an LII guardian terminates if the guardian or ward dies, or if the guardian becomes incapacitated, resigns, or is removed.
+2. Guardianship of an Individual with Developmental Disabilities (DD)
+* Definition: A "developmental disability" is a severe, chronic condition (attributable to mental or physical impairment, or both) that manifests before age 22, is likely to continue indefinitely, and results in substantial functional limitations in three or more major life activities (e.g., self-care, learning, mobility). For minors from birth to age 5, it includes substantial developmental delay or a high probability of such a disability.
+* Appointment and Scope: DD guardianships are specifically designed to promote the individual's well-being and maximum self-reliance, and are ordered only to the extent necessitated by the individual's actual limitations. Partial guardianship is preferred over plenary (full) guardianship.
+* Transition at Age 18: If a developmentally disabled individual is close to their 18th birthday, a hearing to appoint a guardian can be held before their 18th birthday, but the letters of authority do not become effective until the individual officially reaches 18 years of age. This specific provision allows for a smooth transition from minor status to adult DD guardianship without a gap in legal authority.
+* Duration and Renewal: Unlike LII guardianships that are often indefinite unless terminated, a partial guardian for a developmentally disabled person cannot be appointed for a term greater than five years. However, a new petition for guardianship can be filed at the expiration of the term, allowing for ongoing protection if needed.
+* Reporting and Rights: The guardian must report to the court annually on the individual's condition and services. Developmentally disabled individuals have the right to request dismissal or modification of the guardianship order at any time, even through informal means like an oral communication or letter. Upon termination of the guardianship, the individual regains all legal and civil rights that were previously designated as disabilities or granted to the guardian.
+3. Adult Conservatorship
+* Purpose: A conservator is appointed by the court to manage a protected individual's estate. For adults, this is appropriate if the individual is unable to manage property and business affairs effectively (for reasons not including minority) and their property would be wasted or dissipated, or money is needed for their support and welfare.
+* Standard of Proof: The basis for appointing a conservator for an adult must be established by clear and convincing evidence. The court is mandated to consider if less intrusive alternatives would adequately protect the individual's property and autonomy.
+* Duties: Conservators have duties to accumulate, preserve, and protect the assets of the protected person, handle assets as a competent adult would, expend reasonable sums for care and support, and ask court permission before selling real estate. They must file inventories and annual accounts with the court.
+* Termination: An adult conservatorship terminates when the protected individual regains capacity or dies. An interested person, including the protected individual, may petition the court to terminate the conservatorship.
+Interaction with Financial Benefits (e.g., SSI, Medicaid)
+Financial planning and eligibility for government benefits, such as Medicaid, become critical post-age-18 for individuals with ongoing needs:
+* Obtaining Benefits: For existing conservators, a common issue identified at intake is obtaining eligibility for government benefits like Medicaid.
+* Long-Term Care Planning: If long-term care planning and needs-based benefits are required, the conservator should consider obtaining court approval for activities to protect assets or perform a "spend down" on behalf of the ward. This is a complex area that should be undertaken with attorney guidance.
+* Court Scrutiny of Funds: Probate courts often aim to preserve a minor's money until they turn 18, only allowing expenditures for basic items not otherwise obtainable through parents. This policy is relevant to understanding how funds might be managed for post-age-18 needs.
+* Guardians' Role with Funds: A guardian of a minor is not legally obligated to support the child from their own funds, but they may receive money payable for the ward's support (e.g., statutory benefits, insurance). Such money must be applied to the ward's current needs, and any excess conserved, often paid to a conservator if one is appointed. Guardians can also initiate child support proceedings.
+Less Restrictive Alternatives and Attorney Consultation
+For Michiganders considering guardianship or conservatorship for an adult, especially upon a minor turning 18, it is crucial to explore less restrictive options. These alternatives include:
+* Partial or Limited Guardianship: Especially relevant for developmentally disabled individuals, allowing the individual to retain certain rights.
+* Supported Decision-Making: A way for individuals to retain their decision-making capacity with assistance from trusted supporters.
+* Powers of Attorney: Durable powers of attorney for financial matters and patient advocate designations or health care powers of attorney for medical decisions.
+* Protective Orders: Court orders that manage property without appointing a full conservator.
+* Professional Supports: Such as geriatric care managers or financial advisors.
+The legal procedures and duties involved in guardianships and conservatorships can significantly affect the rights of individuals and expose fiduciaries to personal liability. Therefore, it is strongly recommended that anyone seeking appointment or already appointed as a guardian or conservator consult an attorney. This expert legal guidance is invaluable for understanding the complex requirements, particularly when transitioning from minor to adult protections or managing long-term care and financial benefits.
+
+
+
+
+
+
+
+
+
+
+
+
+Financial Supports Checklist for Michiganders Navigating Guardianship
+Understanding the financial landscape of a minor's guardianship is crucial for all parties involved. This checklist distills the core elements related to financial support and benefits.
+I. Guardian's Financial Responsibilities & Powers
+•
+No Personal Financial Obligation: A guardian is not legally obligated to use their own funds to support the minor (ward).
+•
+Receipt and Expenditure of Funds:
+◦
+Guardians may receive money payable for the ward's support, care, and education.
+◦
+Such money must be applied to the ward's current needs (support, care, education), and any excess should be conserved for future needs.
+◦
+Guardians cannot use these funds for their own compensation unless explicitly approved by a court order or by an appointed conservator (if separate).
+•
+Initiating Support Proceedings: A guardian has the authority to institute proceedings to compel a person's duty to support the ward or pay money for the ward's welfare, including initiating child support actions.
+•
+Management of Property:
+◦
+Guardians must take reasonable care of the ward's personal effects and may need to commence protective proceedings to safeguard the ward's property if necessary.
+◦
+If a conservator is appointed for the ward's estate, any excess funds received by the guardian for support must be paid over to the conservator at least annually.
+◦
+Conservators must file a verified inventory of the estate within 56 days of appointment.
+◦
+Conservators are also required to file annual accounts detailing receipts and disbursements, serving copies on interested persons, and attaching financial institution statements for liquid assets. Failure to do so can result in suspension or removal.
+◦
+For a minor's estate, funds may be kept in restricted accounts, meaning court approval is generally required for withdrawals.
+•
+Professional Guardians: Professional guardians or conservators can only receive compensation specifically authorized by law or the mental health code, and must disclose any other benefits received.
+II. Parental Financial Obligations & Compliance
+•
+Court-Ordered Support: Even with a guardian, the court may order the minor's parents to pay reasonable support and arrange parenting time for the minor's welfare.
+•
+Limited Guardianship Placement Plan: For limited guardianships, the court-approved placement plan must include provisions for the minor's financial support. This plan may specify payment details and require income verification from parents.
+•
+Parental Support Obligation (as Conservator): A parent acting as a conservator for their minor child cannot use the child's conservatorship funds to fulfill their own legal obligation to support the minor.
+•
+Reintegration Plans: Court-structured plans for reintegrating a minor into the parent's home may include requirements for the parent to provide financial support and medical insurance.
+•
+Impact on Parental Rights: A parent's substantial failure to comply with a limited guardianship placement plan, including financial support without good cause for two years or more, can be a ground for termination of parental rights.
+III. Accessing & Managing Governmental Benefits (e.g., Medicaid)
+•
+Notification of Agencies: When filing for a conservator or protective order, it is important to notify any governmental agency that pays benefits to the individual or is processing a benefit application.
+•
+Medicaid and Protective Orders: Probate courts have the authority to issue protective orders for support, including for a community spouse whose institutionalized spouse is receiving Medicaid benefits.
+•
+Limitations on Court Authority: The probate court's authority over Medicaid benefits is specific: it cannot directly change Medicaid calculations like the Community Spouse Monthly Income Allowance (CSMIA) or modify patient-pay amounts. The court is bound by existing Medicaid calculations.
+•
+Proof of Need for Support: A spouse seeking a protective order for support due to an institutionalized spouse receiving Medicaid must demonstrate by clear and convincing evidence that they need the money despite existing Medicaid provisions. Eligibility for Medicaid and applicable patient-pay costs must be determined by Medicaid first.
+•
+DHHS Involvement: The confidential Minor Guardianship Social History form (PC670) inquires about any contact the child or parent(s) have had with the Michigan Department of Health and Human Services (MDHHS) protective services unit. DHHS can also be ordered by the court to supervise transition periods and provide services during minor reintegration efforts
+
+
+
+
+
+
+the following fees are associated with guardianship proceedings in Genesee County:
+•
+Petition to Appoint Guardian: $175.00.
+•
+Letters of Guardianship: $11.00 per copy.
+•
+Publication Fee: $96.05. This fee is applicable when publication is required, for instance, if the address or whereabouts of interested persons are unknown. A money order made payable to the Flint-Genesee County Legal News is required for this fee.
+It is important to note that the court in Genesee County cannot accept personal checks for fees
+
+
+
+
+
+
+Disclaimer: This guide provides general legal information for educational purposes only. It is not a substitute for legal advice from a qualified attorney. Court rules, forms, and fees can change.

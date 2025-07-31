@@ -1,0 +1,58 @@
+﻿5. Temporary Guardianships – Emergency and Interim Care
+
+
+Filing-office contact block: Genesee County Probate Court, 900 S. Saginaw St., Room 502, Flint MI 48502 • (810) 257‑3528
+
+
+SOURCE
+* Michigan Probate Benchbook – Minor Guardianships, Chapter 6, §6.4
+* Michigan Bar Journal, “A Guide to Minor Guardianships,” October 2001
+* MJI Probate Court Register Orientation Materials (2019/2021)
+SCOPE
+* IN SCOPE: This document explains temporary and emergency minor guardianships in Michigan. It covers the reasons for appointing a temporary guardian, the process for requesting one, the duration of the appointment, and the powers and duties of a temporary guardian. It is intended for any person interested in the welfare of a minor, including the minor themselves (if 14 or older), who needs to secure immediate legal authority to care for a child in an urgent situation.
+* OUT OF SCOPE: This document does not cover full (permanent) guardianships, adult guardianships, or guardianships outside of Michigan. It is not a substitute for legal advice from a qualified attorney, especially in complex or contested cases.
+TOPIC
+Temporary Minor Guardianship (Michigan)
+Temporary Guardianship: At-a-Glance
+* Prerequisite / Scenario: Emergency during pending guardianship case
+   * Required Form(s): PC 651, PC 670
+   * Timeline: Appointment cannot exceed 6 months.
+   * Key Statute/Rule: MCL 700.5213(3) MCR 5.403(D)(1)
+* Prerequisite / Scenario: Existing guardian is suspended/failing duties
+   * Required Form(s): PC 675 (Petition to Terminate/Modify)
+   * Timeline: Appointment cannot exceed 6 months.
+   * Key Statute/Rule: MCR 5.403(D)(2)
+* Prerequisite / Scenario: Objection filed after ex parte order
+   * Required Form(s): PC 672 (Notice of Appointment)
+   * Timeline: Hearing must be held within 14 days of objection.
+   * Key Statute/Rule: MCR 5.403(B)
+* Prerequisite / Scenario: Guardian from another state (Foreign)
+   * Required Form(s): PC 684m, Authenticated Letters
+   * Timeline: Temporary letters expire in 28 days.
+   * Key Statute/Rule: MCL 700.5202a
+Understanding Temporary Guardianship
+A temporary guardianship is a short-term, emergency appointment made by a probate court to give an adult the legal authority to care for a minor when an immediate need arises. It is a stop-gap measure designed to protect the child’s welfare until a more permanent solution can be arranged. (See: 1. Overview of Minor Guardianships in Michigan).
+A court can appoint a temporary guardian for a minor in two primary situations (MCL 700.5213; MCR 5.403(D)):
+1. During a Pending Guardianship Case: If a petition for a full or limited guardianship has been filed, but there is an urgent need to protect the minor before the final hearing, the court can appoint a temporary guardian. This is often necessary to handle immediate issues like school enrollment or medical care. (See: 2. Full Guardianship of a Minor – Eligibility and Process and 3. Limited Guardianship of a Minor – Voluntary Arrangement).
+2. If an Existing Guardian Fails Their Duties: If a minor already has a guardian who is suspended or is not properly performing their duties, the court can appoint a temporary guardian to step in, protect the minor's interests, and assess whether the original guardian should be permanently removed.
+Requesting an Emergency Guardianship
+Any "person interested in the welfare of a minor," or the minor themselves if they are 14 years of age or older, may petition for a temporary guardianship. The request is made by filing a petition with the probate court in the county where the minor lives or is currently located.
+The filing must include:
+* Petition for Appointment of Guardian of Minor (PC 651): This form must clearly explain the emergency and why a guardian is needed immediately.
+* Minor Guardianship Social History (PC 670): This confidential form provides the court with background information.
+* File PC 564 proof of service no later than five (5) days before the scheduled Thursday hearing
+IMPORTANT: Is the Child an "Indian Child"?
+If the minor may be an "Indian child" as defined by the Indian Child Welfare Act (ICWA) or Michigan Indian Family Preservation Act (MIFPA), special rules apply. The petition must describe the "active efforts" made to prevent the breakup of the Indian family (MCL 712B.15), and the child's tribe has an absolute right to intervene in the case at any time. (See: 4. Guardianship of Indian Children – ICWA/MIFPA Requirements).
+Because these situations are urgent, the court can act quickly.
+* Notice: The court can shorten the time required to notify the child’s parents and other interested parties. While a minor aged 14 or older must always receive notice, the court may issue an order ex parte (without advance notice to others) in a true emergency (MCR 5.403(B)).
+* Hearing After Ex Parte Order: If the court appoints a temporary guardian without advance notice, it must immediately send a Notice of Appointment of Temporary Guardian (PC 672) to all interested persons. If any person files an objection, the court is required to hold a hearing within 14 days to decide if the temporary appointment should continue (MCR 5.403(B)).
+Understanding the Duration and Powers
+A temporary guardianship may not exceed six months from the date of appointment (MCL 700.5213(3); MCR 5.403(D)(2)). At expiration, the letters of guardianship lapse automatically unless the court enters a new order. (See: 7. Ending or Changing a Guardianship (Termination & Modification)).
+A temporary guardian has the same general powers and responsibilities as a full guardian. To exercise this authority, the temporary guardian must be appointed by court order, file an Acceptance of Appointment (PC 571), and receive official Letters of Guardianship (Temporary) (PC 633). (See: 6. Duties and Responsibilities of a Guardian of a Minor).
+Exploring Immediate Alternatives
+Testamentary Guardianship
+If a parent names a guardian in their will, that person can assume guardianship duties immediately upon the parent's death by filing an Acceptance of Appointment with the court. This becomes effective automatically unless the minor (if 14 or older) objects. This is a form of full guardianship that bypasses the need for an emergency hearing. (See: 2. Full Guardianship of a Minor – Eligibility and Process).
+Guardian from Another State
+Michigan law allows a guardian already appointed in another state to be appointed as a temporary guardian here. By filing an application and an authenticated copy of their out-of-state appointment, the court can issue temporary letters of guardianship that are valid for 28 days (MCL 700.5202a). The foreign guardian must give notice to interested parties within 14 days. If no objection is filed, the temporary appointment can be converted to a full guardianship. (See: 8. Filing for Guardianship – Court Procedures and Forms).
+Power of Attorney
+For very short-term situations, a parent can give another person authority over the minor using a power of attorney, which can last for up to 180 days and is a less formal alternative to court action (MCL 700.5103). (See: 2. Full Guardianship of a Minor – Eligibility and Process).

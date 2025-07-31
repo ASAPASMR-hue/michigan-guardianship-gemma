@@ -1,0 +1,14 @@
+# AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
+genesee_patterns:
+  filing_fee: \$175
+  thursday: Thursday
+  address: 900 S\. Saginaw
+  forms: PC \d{3}|MC \d{2}
+hallucination_threshold: 0.05
+validation_gates:
+- out_of_scope_check
+- hallucination_check
+- citation_verification
+- procedural_accuracy
+- mode_appropriateness
+- legal_disclaimer

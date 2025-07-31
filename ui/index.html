@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michigan Guardianship AI - Genesee County</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <h1>
+                    <i class="fas fa-shield-alt"></i>
+                    Michigan Guardianship AI
+                </h1>
+                <p class="subtitle">Genesee County Minor Guardianship Assistant</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="chat-container">
+            <!-- Welcome Message -->
+            <div class="welcome-message" id="welcomeMessage">
+                <h2>Welcome to the Michigan Guardianship AI Assistant</h2>
+                <p>I'm here to help you navigate minor guardianship procedures in Genesee County. I can assist with:</p>
+                <ul>
+                    <li>Understanding guardianship types and requirements</li>
+                    <li>Filing procedures and required forms</li>
+                    <li>Genesee County specific information</li>
+                    <li>Step-by-step guidance through the process</li>
+                </ul>
+                <p class="disclaimer">
+                    <i class="fas fa-info-circle"></i>
+                    This tool provides educational information only and does not constitute legal advice.
+                </p>
+            </div>
+
+            <!-- Chat Messages Container -->
+            <div class="messages-container" id="messagesContainer">
+                <!-- Messages will be dynamically added here -->
+            </div>
+
+            <!-- Loading Indicator -->
+            <div class="loading-indicator" id="loadingIndicator" style="display: none;">
+                <div class="spinner"></div>
+                <span>Thinking...</span>
+            </div>
+        </main>
+
+        <!-- Input Section -->
+        <div class="input-section">
+            <form id="chatForm" class="chat-form">
+                <div class="input-wrapper">
+                    <textarea 
+                        id="questionInput" 
+                        class="question-input" 
+                        placeholder="Ask your question about Michigan minor guardianship..."
+                        rows="2"
+                        required
+                    ></textarea>
+                    <button type="submit" class="send-button" id="sendButton">
+                        <i class="fas fa-paper-plane"></i>
+                        <span>Send</span>
+                    </button>
+                </div>
+            </form>
+            <div class="input-hints">
+                <p>Example questions:</p>
+                <ul>
+                    <li>"What forms do I need to file for guardianship in Genesee County?"</li>
+                    <li>"How much does it cost to file for guardianship?"</li>
+                    <li>"What are the requirements to become a guardian?"</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>
+                <i class="fas fa-balance-scale"></i>
+                For legal advice, please consult with a qualified attorney
+            </p>
+            <p class="footer-links">
+                <a href="https://www.gc4me.com/departments/probate_court/index.php" target="_blank">
+                    Genesee County Probate Court
+                </a>
+            </p>
+        </footer>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="errorModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close" onclick="closeErrorModal()">&times;</span>
+            <h3><i class="fas fa-exclamation-triangle"></i> Error</h3>
+            <p id="errorMessage"></p>
+            <button onclick="closeErrorModal()" class="modal-button">OK</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

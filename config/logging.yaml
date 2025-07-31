@@ -1,0 +1,14 @@
+# Log Config (Export to config/logging.yaml via split_playbook.py)
+LOG_CONFIG:
+  file: project_log.md  # Markdown for readability
+  format: |
+    - **Timestamp**: {timestamp}
+    - **Action**: {action}
+    - **Details**: {details}
+    - **Rationale**: {rationale} (reference playbook section if applicable)
+  triggers:
+    - Bash executions with output/error
+    - Todo updates
+    - File writes/renames
+    - Git commits/pushes
+    - Script runs (e.g., split_playbook.py)

@@ -1,0 +1,15 @@
+I interrupted because the timeout persists—likely a Claude Code session limit on large downloads. Resume the plan with these adjustments to complete Phase 1:
+
+1. Temporarily switch to a smaller model in config/embedding.yaml for in-session testing:
+   - primary_model: all-MiniLM-L6-v2 (fast ~90MB download, good for dev).
+   - fallback_model: paraphrase-MiniLM-L6-v2.
+
+2. In embed_kb.py:
+   - Add a flag: if os.getenv('USE_SMALL_MODEL', 'false') == 'true', use the small model.
+   - For missing PDFs: Use a tool or manual download—provide code to fetch them via requests (e.g., download pc650.pdf from https://www.courts.michigan.gov/4a129a/siteassets/forms/scao-approved/pc650.pdf and save to kb_files/Court Forms/).
+
+3. Run the script here with small model (set env USE_SMALL_MODEL=true).
+4. After success, advise running full bge-m3 version locally (outside Claude Code) with `HF_TOKEN=your_token python scripts/embed_kb.py`.
+5. Proceed to next scripts (retrieval_setup.py, etc.) once embedding works.
+
+Proceed with "Yes" after these changes.

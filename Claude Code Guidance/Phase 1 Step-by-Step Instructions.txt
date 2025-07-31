@@ -1,0 +1,48 @@
+Project Context: I'm building the Michigan Minor Guardianship AI per the (2.1) Project Guidance playbook. My root directory is /Users/claytoncanady/Library/michigan-guardianship-ai. Key subdirs: kb_files/ (with Court Forms, Instructive, KB (Numbered) subdirs containing TXT and PDF files), docs/ (with Project_Guidance_v2.1.md), config/ (YAML files), constants/ (genesee.yaml), patterns/ (out_of_scope.json), rubrics/ (eval_rubric.yaml, question_tiers.yaml), scripts/ (log_step.py, split_playbook.py).
+
+I've generated configs via make extract-configs (which ran split_playbook.py on docs/Project_Guidance_v2.1.md). Now, proceed with Phase 1: Foundation. Start by embedding all documents in kb_files/ and docs/ using BAAI/bge-m3 into ChromaDB. Then set up hybrid search, implement reranker, integrate LettuceDetect and out-of-scope validation, and deploy the base rubric.
+
+Step-by-Step Instructions:
+
+1. Embed All Documents:
+   • Create a new script scripts/embed_kb.py based on the playbook's A.1-A.2 (chunking and embedding configs from config/chunking.yaml and config/embedding.yaml).
+   • Load and chunk TXT/PDF files from kb_files/ (all subdirs) and docs/. For PDFs (e.g., in kb_files/Court Forms/), extract text using pdfplumber or PyPDF2. Apply semantic chunking: size=1000 tokens, overlap=100, separators=["\n## ", "\n### ", "\nMCL ", "\nPC ", "\n§ ", "\n- ", "\n\n"], preserve_together patterns for forms/statutes/fees/deadlines.
+   • Attach metadata: jurisdiction="Genesee County", doc_type ("form" for PDFs, "procedure" for KB TXT, "guidance" for instructive TXT), last_updated="2025-07-10", source=filename.
+   • Embed with BAAI/bge-m3 (batch_size=64, normalize=True). Store in ChromaDB collection "michigan_guardianship_v2" (cosine metric, persistent at ./chroma_db/).
+   • Selectively embed only core SCAO PDFs (e.g., pc651.pdf, pc650.pdf, pc654.pdf—about 10-15 total to avoid bloat; skip others and note links from kb_files/Court Forms/Court Forms Links.txt).
+   • Log the process to project_log.md using scripts/log_step.py.
+   • Test: After embedding, query for "filing fee genesee" and print top 5 chunks to verify Genesee specifics ($175, MC 20 waiver).
+
+2. Set Up Hybrid Search with Genesee Filters:
+   • Create scripts/retrieval_setup.py per A.3 (use config/retrieval_pipeline.yaml for tiers: simple/top_k=5, standard/10, complex/15; latency budgets).
+   • Implement QueryComplexityClassifier class: Use TF-IDF/keywords for now (e.g., "icwa" -> complex).
+   • Set up hybrid search: vector (bge-m3, weight=0.7) + lexical (BM25, k1=1.2, b=0.75, weight=0.3).
+   • Add mandatory filter: where={"jurisdiction": "Genesee County"}.
+   • Test: Classify sample queries (e.g., "filing fee?" -> simple), retrieve from Chroma, and log results.
+
+3. Implement Reranker:
+   • In the same script, add reranking with BAAI/bge-reranker-v2-m3 (batch_size=32).
+   • Rerank top_k from retrieval (e.g., rerank_top_k=3 for simple).
+   • Test: Rerank results from a query and compare scores.
+
+4. Integrate LettuceDetect Validation and Out-of-Scope Guidelines:
+   • Install lettuce_detect if needed (pip install lettuce-detect—assume available).
+   • Create scripts/validator_setup.py per A.5: Implement ResponseValidator class.
+   • Add out-of-scope check first: Load patterns from patterns/out_of_scope.json, use regex to detect (e.g., if match, return redirect).
+   • Integrate hallucination check (threshold=0.05), citation verification (every fact cited before punctuation), Genesee patterns (e.g., r"$175", r"Thursday").
+   • Test: Validate a mock response against chunks; log if pass/fail.
+
+5. Deploy Base Evaluation Rubric:
+   • Create scripts/eval_rubric.py loading rubrics/eval_rubric.yaml and question_tiers.yaml.
+   • Implement scoring: Weighted dimensions (procedural_accuracy=2.5, etc., total=10), adaptive by tier.
+   • Add CI/CD hook: If score <0.95 for simple, flag.
+   • Test: Score a sample response from guardianship_qa_cleaned - rubric_determining-2.csv.
+
+Final Outputs:
+• Run all scripts via a new Makefile target (e.g., make phase1).
+• Update project_log.md with results.
+• Commit changes to Git.
+• If errors, debug with print statements or code execution.
+• Provide the complete code for each script, then execute and show outputs.
+
+This should get you through Phase 1. Once complete, you can move to Phase 2 in the playbook. If Claude Code needs clarification, reference the CLAUDE.md sections (e.g., A.1 for chunking).

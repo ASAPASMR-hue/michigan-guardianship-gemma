@@ -1,0 +1,392 @@
+{
+  "test_run": "2025-07-26T03:43:29.347926",
+  "model": "gemini-1.5-flash",
+  "tests": [
+    {
+      "test_id": "fee_test",
+      "question": "What is the filing fee for guardianship in Genesee County?",
+      "timestamp": "2025-07-26T03:43:29.347930",
+      "retrieval": {
+        "num_chunks": 3,
+        "time_seconds": 0.1934361457824707,
+        "complexity": "simple",
+        "chunks_preview": [
+          {
+            "score": 1.1105129825940665,
+            "source": "8. Filing for Guardianship \u2013 Court Procedures and Forms (Draft 3)-2.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 1.1095304181604686,
+            "source": "Document 8_ Filing for Guardianship \u2013 Court Procedures and Forms.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 1.0792138947145373,
+            "source": "2. Full Guardianship of a Minor \u2013 Eligibility and Process copy.docx.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "14 days",
+              "PC 651"
+            ]
+          }
+        ]
+      },
+      "generation": {
+        "response": "The filing fee for a Petition to Appoint a Guardian of a Minor in Genesee County is $175.  A fee waiver is available via Form MC 20 if you cannot afford the fee.\n",
+        "time_seconds": 0.8451666831970215
+      },
+      "validation": {
+        "pass": true,
+        "out_of_scope": true,
+        "suggested_response": "I can only help with minor guardianship matters in Genesee County, Michigan. I can only provide information about minor guardianship in Genesee County, Michigan. For other counties, please contact that location's probate court directly."
+      },
+      "content_check": {
+        "found_facts": [
+          "$175",
+          "fee waiver",
+          "MC 20"
+        ],
+        "missing_facts": [],
+        "critical_missing": [],
+        "passed": true
+      },
+      "overall_passed": true
+    },
+    {
+      "test_id": "court_location_test",
+      "question": "Where is the Genesee County Probate Court located?",
+      "timestamp": "2025-07-26T03:43:30.387804",
+      "retrieval": {
+        "num_chunks": 3,
+        "time_seconds": 0.15466594696044922,
+        "complexity": "simple",
+        "chunks_preview": [
+          {
+            "score": 0.8268653916189437,
+            "source": "GM-ARI.pdf",
+            "boosted": [
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 0.940936883509059,
+            "source": "Document 8_ Filing for Guardianship \u2013 Court Procedures and Forms.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 0.9735382031430547,
+            "source": "8. Filing for Guardianship \u2013 Court Procedures and Forms (Draft 3)-2.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          }
+        ]
+      },
+      "generation": {
+        "response": "The Genesee County Probate Court is located at 900 S. Saginaw Street, Room 502, Flint, MI 48502.\n",
+        "time_seconds": 0.6463112831115723
+      },
+      "validation": {
+        "pass": true,
+        "out_of_scope": true,
+        "suggested_response": "I can only help with minor guardianship matters in Genesee County, Michigan. I can only provide information about minor guardianship in Genesee County, Michigan. For other counties, please contact that location's probate court directly."
+      },
+      "content_check": {
+        "found_facts": [
+          "900 S. Saginaw",
+          "Flint",
+          "48502"
+        ],
+        "missing_facts": [],
+        "critical_missing": [],
+        "passed": true
+      },
+      "overall_passed": true
+    },
+    {
+      "test_id": "hearing_day_test",
+      "question": "What day are guardianship hearings held?",
+      "timestamp": "2025-07-26T03:43:31.189142",
+      "retrieval": {
+        "num_chunks": 5,
+        "time_seconds": 0.36417388916015625,
+        "complexity": "standard",
+        "chunks_preview": [
+          {
+            "score": 0.6081361609697342,
+            "source": "1. Overview of Minor Guardianships in Michigan (Draft 2)-2-2 copy.docx.txt",
+            "boosted": [
+              "14 days"
+            ]
+          },
+          {
+            "score": 0.7615139469137177,
+            "source": "7. Ending or Changing a Guardianship (Termination & Modification) (Draft 2)-2 copy.docx.txt",
+            "boosted": [
+              "ICWA",
+              "Indian Child Welfare Act",
+              "active efforts"
+            ]
+          },
+          {
+            "score": 0.9309513131511531,
+            "source": "Genesee County Specifics.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "Thursday",
+              "14 days",
+              "PC 651",
+              "PC 654",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          }
+        ]
+      },
+      "generation": {
+        "response": "Guardianship hearings in Genesee County Probate Court are held on Thursdays at 9:00 AM.\n",
+        "time_seconds": 0.5711688995361328
+      },
+      "validation": {
+        "pass": true,
+        "scores": {
+          "hallucination": 0.0,
+          "citation_compliance": 1.0,
+          "procedural_accuracy": 1.0,
+          "mode_effectiveness": 1.0
+        },
+        "final_response": "What day are guardianship hearings held?"
+      },
+      "content_check": {
+        "found_facts": [
+          "Thursday"
+        ],
+        "missing_facts": [],
+        "critical_missing": [],
+        "passed": true
+      },
+      "overall_passed": true
+    },
+    {
+      "test_id": "icwa_test",
+      "question": "How does ICWA apply to emergency guardianship proceedings?",
+      "timestamp": "2025-07-26T03:43:32.129181",
+      "retrieval": {
+        "num_chunks": 7,
+        "time_seconds": 0.4915649890899658,
+        "complexity": "complex",
+        "chunks_preview": [
+          {
+            "score": 1.0293848313246956,
+            "source": "4. Guardianship of Indian Children \u2013 ICWA_MIFPA Requirements (Draft 2)-2 copy.docx.txt",
+            "boosted": [
+              "ICWA",
+              "Indian Child Welfare Act",
+              "PC 651",
+              "placement preferences",
+              "active efforts"
+            ]
+          },
+          {
+            "score": 0.9409206841365825,
+            "source": "Michigan Minor Guardianship Knowledge Base Index copy.txt",
+            "boosted": [
+              "MCL 712B",
+              "ICWA",
+              "Indian Child Welfare Act"
+            ]
+          },
+          {
+            "score": 0.9346414901720905,
+            "source": "4. Guardianship of Indian Children \u2013 ICWA_MIFPA Requirements (Draft 2)-2 copy.docx.txt",
+            "boosted": [
+              "MCL 712B",
+              "ICWA",
+              "active efforts"
+            ]
+          }
+        ]
+      },
+      "generation": {
+        "response": "In emergency guardianship proceedings, if the minor is or may be an \"Indian child\" as defined by the Indian Child Welfare Act (ICWA) or the Michigan Indian Family Preservation Act (MIFPA), special rules apply (Context 4, 8.5).  The petition must detail the \"active efforts\" made to prevent family separation (MCL 712B.15), and the child's tribe has the right to intervene at any time (Context 7).  While the court can expedite notice to parents and other interested parties,  a minor aged 14 or older must still receive notice (Context 7).  If a temporary guardian is appointed without prior notice (ex parte), a hearing must occur within 14 days of any objections (Context 7, MCR 5.403(B)).  Form PC 678 (Notice of Guardianship Petition for Indian Child) is relevant (Context 1, 3, 4).\n",
+        "time_seconds": 1.876737117767334
+      },
+      "validation": {
+        "pass": true,
+        "scores": {
+          "hallucination": 0.0,
+          "citation_compliance": 1.0,
+          "procedural_accuracy": 1.0,
+          "mode_effectiveness": 1.0
+        },
+        "final_response": "How does ICWA apply to emergency guardianship proceedings?"
+      },
+      "content_check": {
+        "found_facts": [
+          "ICWA",
+          "emergency",
+          "MCL 712B"
+        ],
+        "missing_facts": [
+          "tribal notification"
+        ],
+        "critical_missing": [
+          "tribal notification"
+        ],
+        "passed": false
+      },
+      "overall_passed": false
+    },
+    {
+      "test_id": "fee_waiver_test",
+      "question": "How do I request a fee waiver?",
+      "timestamp": "2025-07-26T03:43:34.498438",
+      "retrieval": {
+        "num_chunks": 3,
+        "time_seconds": 0.15469908714294434,
+        "complexity": "simple",
+        "chunks_preview": [
+          {
+            "score": 0.7368585885414102,
+            "source": "Document 8_ Filing for Guardianship \u2013 Court Procedures and Forms.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 0.7655931096973143,
+            "source": "8. Filing for Guardianship \u2013 Court Procedures and Forms (Draft 3)-2.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "cannot afford",
+              "Thursday",
+              "PC 651",
+              "PC 652",
+              "MC 97",
+              "900 S. Saginaw",
+              "Flint",
+              "48502"
+            ]
+          },
+          {
+            "score": 0.7425210534649134,
+            "source": "2. Full Guardianship of a Minor \u2013 Eligibility and Process copy.docx.txt",
+            "boosted": [
+              "$175",
+              "filing fee",
+              "fee waiver",
+              "MC 20",
+              "14 days",
+              "PC 651"
+            ]
+          }
+        ]
+      },
+      "generation": {
+        "response": "To request a fee waiver for a minor guardianship filing in Genesee County Probate Court, complete and submit Form MC 20, Fee Waiver Request, along with your petition.  You may qualify if your household income is below 125% of the federal poverty guidelines or if paying the fee would create a financial hardship.  You will need to provide proof of income or public assistance such as FAP, Medicaid, or SSI.\n",
+        "time_seconds": 0.9413490295410156
+      },
+      "validation": {
+        "pass": true,
+        "scores": {
+          "hallucination": 0.0,
+          "citation_compliance": 1.0,
+          "procedural_accuracy": 1.0,
+          "mode_effectiveness": 1.0
+        },
+        "final_response": "How do I request a fee waiver?"
+      },
+      "content_check": {
+        "found_facts": [
+          "MC 20",
+          "financial"
+        ],
+        "missing_facts": [
+          "cannot afford"
+        ],
+        "critical_missing": [],
+        "passed": false
+      },
+      "overall_passed": false
+    }
+  ],
+  "summary": {
+    "total": 5,
+    "passed": 3,
+    "failed": 2
+  }
+}

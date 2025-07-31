@@ -1,0 +1,23 @@
+// # AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
+[
+  {
+    "category": "adult_guardianship",
+    "regex": "(adult|elderly|dementia|alzheimer|incapacitated adult)",
+    "redirect": "For adult guardianship, contact the Genesee County Probate Court at (810) 257-3528"
+  },
+  {
+    "category": "divorce_custody",
+    "regex": "(divorce|custody|parenting time|child support)",
+    "redirect": "For divorce and custody matters, visit the Friend of the Court at 900 S. Saginaw St., Flint"
+  },
+  {
+    "category": "adoption",
+    "regex": "(adopt|adoption)",
+    "redirect": "For adoption information, contact Michigan Adoption Resource Exchange at (800) 589-6273"
+  },
+  {
+    "category": "criminal",
+    "regex": "(criminal|arrest|jail|prison|probation)",
+    "redirect": "For criminal matters, contact the Genesee County Circuit Court at (810) 257-3220"
+  }
+]

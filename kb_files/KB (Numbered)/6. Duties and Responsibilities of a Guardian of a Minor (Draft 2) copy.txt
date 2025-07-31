@@ -1,0 +1,68 @@
+﻿6. Duties and Responsibilities of a Guardian of a Minor (Draft 2)
+This guide explains the legal duties, powers, and responsibilities of a person appointed by a Michigan court as a guardian for a minor. Understanding these obligations is essential to acting in the child's best interest and meeting all court requirements.
+For information on the court process for appointing a guardian, see Document 8 - Filing for Guardianship - Court Procedures and Forms.
+For rules specific to Native American children, see Document 4 - Guardianship of Indian Children - ICWA/MIFPA Requirements.
+Guardian's Duties: At-a-Glance Checklist
+This checklist is a quick summary. Each item is explained in more detail below.
+● Provide Daily Care: Make decisions about the child's custody, education, and health.
+● Manage Finances Appropriately: Handle the child's money for their benefit and protect their property.
+● File Annual Reports: Submit a yearly report to the court about the child's condition using Form PC 654.
+● Notify the Court of Changes: Inform the court about any changes in your address or the child's address.
+● Cooperate with Court Reviews: Participate in the court's periodic reviews of the guardianship.
+● Get Court Permission for Major Actions: Seek a judge's approval before moving the child out of state, consenting to marriage/adoption, or using the child's funds for certain expenses.
+Duties and Forms at a Glance
+Annual Report: SCAO Form PC 654 (Explained in Mandatory Reporting to the Court)
+● Proof of Service: SCAO Form PC 564 (Explained in Mandatory Reporting to the Court)
+● Petition to Use Funds: SCAO Form PC 673 (Explained in Managing the Minor's Money and Property)
+● Petition to Terminate/Modify: SCAO Form PC 675 (Explained in Ending or Changing the Guardianship)
+Full Guardian vs. Limited Guardian: Key Differences
+The court order that appoints you will state whether you are a full guardian or a limited guardian. The difference is critical.
+● A full guardianship is typically used when a child's parents have had their rights suspended or terminated by a court. A full guardian has all the powers of a parent.
+● A limited guardianship is created with the consent of the child's parent(s). It is often used when a parent is temporarily unable to care for their child. It is based on a specific agreement (the Limited Guardianship Placement Plan) that includes parenting time.
+The most important distinction involves major life decisions:
+ActionFull GuardianLimited GuardianConsent to Child's MarriageYes, with a specific court orderNeverConsent to Child's AdoptionYes, with a specific court orderNever(Source: MCL 700.5206(4))
+Your Core Responsibilities: The "Powers of a Parent"
+As a guardian, you have the powers and responsibilities of a parent responsible for the child's (the "ward's") care, custody, and control. (MCL 700.5215)
+Your primary duties include:
+● Custody and Daily Care: You decide where the child lives and are responsible for their day-to-day care, comfort, and maintenance. You can also prohibit visits with others if you determine it is in the child's best interest.
+● Medical and Professional Care: You can consent to the ward's medical, dental, or other professional care. This includes the authority to execute a Do-Not-Resuscitate (DNR) Order, after consulting with the child (if possible) and their physician. (MCL 333.1053a)
+● Education and Activities: You must facilitate the ward's education and social life.
+● Delegate Powers (Temporarily): You can use a power of attorney to delegate your duties to another person for a period of up to 180 days. If you do this, you must notify the court. (MCL 700.5103)
+Managing the Minor's Money and Property
+● Financial Responsibility: You are not legally obligated to use your own money to support the ward. Your duty is to manage the ward's funds for their support and to carefully conserve any excess money.
+● When a Conservator is Required: If a minor owns real estate or receives over $5,000 in a single year, a conservator must be appointed by the court to manage the assets. You have a duty to petition the court for a conservator or other protective order (using Petition for Appointment of Conservator, PC 639) if the child's property needs this formal protection. (MCL 700.5401(2))
+● Petition for Burial Expenses: If a ward dies without a conservator, you may petition the court to use the ward's funds for their burial and funeral expenses. (MCL 700.5216(2))
+Mandatory Reporting to the Court
+Reporting to the court is a critical, non-negotiable duty. Failing to report can result in your removal as guardian.
+The Annual Report (Form PC 654)
+Every year, you must file an Annual Report of Guardian on Condition of Minor (PC 654) with the court. (MCL 700.5215(f); MCR 5.409(A))
+● Deadline: The report must be filed within 56 days of the anniversary date of your appointment.
+● Content: This form provides the court with vital information about the child's living situation, health, schooling, and general well-being.
+● Service: You must send a copy of the report to interested persons (the child's parents; the child if 14 or older) and file a Proof of Service (PC 564) with the court to prove you did so.
+Court Oversight and Review
+The probate court actively monitors every guardianship.
+● Annual Review (Wards Under 6): The court must review the case every year if the ward is under six years old. This review must start within 63 days of the anniversary of your appointment. (MCL 700.5207; MCR 5.404(G)(1))
+● Investigation: As part of a review, the court will appoint an investigator (a court employee or from DHHS). You must cooperate with them. The investigator will visit the child and must file a written report with the court within 28 days of their appointment. (MCL 700.5207(2); MCR 5.404(G)(2))
+Actions Requiring Court Permission
+You must get a specific court order before taking these actions:
+● Moving the child out of Michigan.
+● Consenting to the child's marriage or adoption. (MCL 700.5215(d))
+● Selling the child's real estate.
+● Using the child's funds to reimburse yourself for room and board you provided. (MCL 700.5215(i)(ii))
+● Delegating your guardianship powers to someone else for more than 180 days. (MCL 700.5103)
+Other Specific Duties
+● Notify of Address Changes: You must notify the court in writing within 7 days if you move, and within 14 days if the child moves to a new address. You must also notify all interested persons of the child's new address. (MCR 5.205; MCR 5.125(C)(24))
+● Check Your Letters: Your Letters of Guardianship (PC 633) are the official proof of your authority. Be aware that they often have an expiration date. While your legal authority continues unless the court ends it, you may need to request extended letters from the court to prove your status to schools or doctors.
+Ending or Changing the Guardianship
+A guardianship for a minor automatically ends when the child turns 18, marries, or is adopted. To end or change it for any other reason requires a court order. For more detailed information, see Document 7 - Ending or Changing a Guardianship (Termination & Modification).
+Practical Advice and Resources
+● Keep Excellent Records: This is the best way to protect yourself and the child. Keep a file with all court papers, school records, medical bills, and receipts for money spent.
+● Guardian Training: Review the free training materials available from Michigan counties, such as the Washtenaw County Guardianship Training Presentation or the Oakland County Guardianship Brochure.
+● Checklist: Refer to the Guardian's Annual Report Checklist for help preparing your annual report.
+Key Sources
+● Statutes: Michigan Compiled Laws (MCL) §700.5215 (Powers and Duties); §700.5103 (Delegation); §700.5216 (Compensation/Burial); §700.5207 (Review).
+● Court Rules: Michigan Court Rules (MCR) 5.404 (Proceedings), 5.409 (Reports), 5.125 (Interested Persons).
+● Secondary Sources:
+○ Michigan Probate Benchbook, Chapter 6 (Mar 2025)
+○ ICLE Michigan Family Law Benchbook, Chapter 12 (Mar 2025)
+○ MJI Introduction to Conservatorships & Guardianships (Nov 2024)

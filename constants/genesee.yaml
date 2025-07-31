@@ -1,0 +1,48 @@
+# AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
+# Machine-readable constants for system prompts
+genesee_county_constants:
+  court:
+    name: "Genesee County Probate Court"
+    address: "900 S. Saginaw St., Room 502, Flint, MI 48502"
+    phone: "(810) 257-3528"
+    
+  scheduling:
+    hearing_days: ["Thursday"]
+    typical_wait: "6+ weeks"
+    
+  fees:
+    petition_filing: 175
+    letters_of_guardianship: 11  # per certified copy
+    publication: 96.05
+    payment_methods: ["cash", "money_order", "credit", "debit"]
+    not_accepted: ["personal_check"]
+    waiver_form: "MC 20"
+    waiver_eligibility: "125% federal poverty or hardship"
+    
+  deadlines:
+    personal_service: 7  # days before hearing
+    mail_service: 14
+    publication: 14
+    proof_of_service_filing: 5  # days before hearing
+    
+  critical_forms:
+    full_guardianship: "PC 651"
+    limited_guardianship: "PC 650"
+    placement_plan: "PC 652"
+    social_history: "PC 670"
+    notice_of_hearing: "PC 562"
+    proof_of_service: "PC 564"
+    annual_report: "PC 654"
+    terminate_modify: "PC 675"
+    
+  local_requirements:
+    background_checks: ["LEIN", "CPS registry"]
+    check_all_adults: true
+    social_history_required: true
+    birth_certificate: "original or certified"
+    
+  # Knowledge gaps requiring fallback
+  unresolved_questions:
+    - "Court permission for address changes"
+    - "Home study/investigation process details"
+    - "SSI benefits and representative payee"

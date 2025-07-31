@@ -1,0 +1,439 @@
+﻿Michigan Minor Guardianship Knowledge Base Index
+Quick Reference Guide
+By Situation/Need
+"I need to understand what guardianship is"
+
+● → Document 1: Overview of Minor Guardianships in Michigan
+"Parents are deceased/missing/unfit"
+
+● → Document 2: Full Guardianship of a Minor - Eligibility and Process
+"Parent wants to voluntarily place child with relative"
+
+● → Document 3: Limited Guardianship of a Minor - Voluntary Arrangement
+"Emergency situation - need immediate care for child"
+
+● → Document 5: Temporary Guardianships - Emergency and Interim Care
+"Child is Native American/Indian"
+
+● → Document 4: Guardianship of Indian Children - ICWA/MIFPA Requirements
+"Need to manage child's money/property"
+
+● → Document 9: Managing a Minor's Assets - Conservatorships
+"Already a guardian - what are my duties?"
+
+● → Document 6: Duties and Responsibilities of a Guardian of a Minor
+"Want to end or change existing guardianship"
+
+● → Document 7: Ending or Changing a Guardianship
+
+"How to file guardianship paperwork"
+
+● → Document 8: Filing for Guardianship - Court Procedures and Forms
+
+Detailed Topic Index
+A
+Acceptance of Appointment
+
+● Form PC 571: Doc 2, 6, 8
+● Testamentary guardian deadline (28 days): Doc 2
+● Process after court approval: Doc 8
+
+Address Changes
+
+● Guardian's duty to notify within 7 days: Doc 6
+● Minor's address change notification (14 days): Doc 6
+● Notice to interested persons: Doc 6
+
+Adoption
+
+● Automatic termination of guardianship: Doc 1, 7
+● Full guardian can consent (with court order): Doc 2, 6
+● Limited guardian cannot consent: Doc 3, 6
+
+Annual Reports
+
+● Form PC 654: Doc 6, 8
+● Deadline (within 56 days of anniversary): Doc 6
+● Service requirements: Doc 6
+● Checklist and training resources: Doc 6
+
+Appeals
+
+● Motion for rehearing (21 days): Doc 7
+● Appeal to Court of Appeals (21 days): Doc 7
+
+B
+Background Checks
+
+● Criminal history (LEIN): Doc 2, 3, 8
+
+● Child Protective Services (CPS) registry: Doc 2, 3, 8
+● All adults in proposed guardian's home: Doc 3, 8
+
+Best Interests Standard
+
+● Required finding for all guardianships: Doc 1, 2, 7
+● Termination decisions: Doc 7
+● Modification decisions: Doc 7
+
+Bond Requirements
+
+● For conservators: Doc 9
+● Amount determination: Doc 9
+● Waiver possibilities: Doc 9
+
+C
+Conservatorship
+
+● Definition and difference from guardianship: Doc 1, 9
+● $5,000 annual threshold: Doc 1, 6, 9
+● Form PC 639 (Petition): Doc 6, 9
+● Inventory requirements (PC 674): Doc 9
+● Annual accounting (PC 583/584): Doc 9
+
+Court Review
+
+● Annual for children under 6: Doc 6, 7
+● Investigation requirements: Doc 6
+● DHHS involvement: Doc 6
+
+D
+Delegation of Authority
+
+● Power of Attorney (up to 180 days): Doc 1, 2, 5, 6
+● Court notification required: Doc 6
+● Beyond 180 days requires court permission: Doc 6
+
+E
+Emergency Situations
+
+● Temporary guardianship: Doc 5, 8
+● Ex parte orders: Doc 5, 8
+● 14-day hearing requirement after ex parte: Doc 5
+
+● Maximum 6-month duration: Doc 1, 5
+
+F
+Fees (Genesee County)
+
+● Filing fee: $175: Doc 3, 8
+● Letters of Guardianship: $12/copy: Doc 3, 8
+● Publication: $96.05: Doc 3, 8
+● Fee waiver available (Form MC 20): Doc 2, 8
+
+Forms - Key SCAO & Local Forms
+
+● PC 639: Petition for Conservator: Doc 6, 9
+● PC 650: Limited Guardianship Petition: Doc 3, 8
+● PC 651: Full Guardianship Petition: Doc 2, 5, 8
+● PC 652: Limited Guardianship Placement Plan: Doc 3, 8
+● PC 654: Annual Report: Doc 6, 8
+● PC 562: Notice of Hearing: Doc 7, 8
+● PC 564: Proof of Service: Doc 6, 7, 8
+● PC 570: Minor Guardianship Social History: Doc 2, 3, 5, 8
+● PC 571: Acceptance of Appointment: Doc 2, 5, 6, 8
+● PC 633: Letters of Guardianship: Doc 2, 6, 8
+● PC 672: Notice of Temporary Appointment: Doc 5
+● PC 673: Petition to Use Funds: Doc 6, 9
+● PC 674: Inventory: Doc 9
+● PC 675: Petition to Terminate/Modify: Doc 6, 7, 8
+● PC 678: Notice for Indian Child: Doc 4, 7
+● PC 684m: Foreign Guardian Registration: Doc 5
+● PC 686: Indian Child Consent: Doc 3, 4
+
+● LocalAuthorization for Release of Info2, 3, 8LocalOrder for Protective Services History Check2, 3, 8
+
+Full Guardianship
+
+● Definition and overview: Doc 1, 2
+● Legal grounds (MCL 700.5204): Doc 2
+● Who can petition: Doc 2
+● Process and requirements: Doc 2, 8
+● Powers and limitations: Doc 6
+
+G
+
+Guardian ad Litem (GAL)
+
+● Investigation role: Doc 2, 8
+● Appointment by court: Doc 2, 7, 8
+
+I
+Indian Child Welfare Act (ICWA)
+
+● Determining applicability: Doc 4
+● Notice requirements (PC 678): Doc 4, 7, 8
+● Active efforts standard: Doc 4, 5
+● Placement preferences: Doc 4
+● Qualified Expert Witness: Doc 4
+● Consent requirements (PC 686): Doc 3, 4
+
+Interested Persons
+
+● Definition (MCR 5.125(C)(20)): Doc 6, 8
+● Service requirements: Doc 2, 7, 8
+● Right to object: Doc 3, 5
+
+Inventory
+
+● Form PC 674: Doc 9
+● 56-day deadline: Doc 9
+● Service requirements: Doc 9
+
+J
+Jurisdiction
+
+● Venue requirements: Doc 2, 8
+● Tribal court transfer: Doc 4
+
+L
+Letters of Guardianship
+
+● Form PC 633: Doc 2, 6, 8
+● Proof of authority: Doc 1, 6
+● Expiration dates: Doc 6
+● Cost ($12/certified copy): Doc 3, 8
+
+Limited Guardianship
+
+● Overview: Doc 1, 3
+● Parent consent required: Doc 1, 3
+● Placement Plan (PC 652): Doc 3, 8
+● Cannot consent to marriage/adoption: Doc 3, 6
+● Termination process: Doc 3, 7
+
+M
+Marriage (Minor's)
+
+● Automatic termination of guardianship: Doc 1, 7
+● Full guardian can consent (with court order): Doc 2, 6
+● Limited guardian cannot consent: Doc 3, 6
+
+Medical Decisions
+
+● Guardian's authority: Doc 1, 6
+● Do-Not-Resuscitate orders: Doc 6
+
+Modification of Guardianship
+
+● Who can petition: Doc 7
+● Process (PC 675): Doc 7
+● Common modifications: Doc 7
+
+N
+Notice Requirements
+
+● Personal service (7 days): Doc 7, 8
+● Mail service (14 days): Doc 7, 8
+● Publication (if parent unknown): Doc 3, 8
+● Indian children special notice: Doc 4
+
+O
+Out-of-State Guardians
+
+● Registration process: Doc 5
+● Form PC 684m: Doc 5
+● 28-day temporary letters: Doc 5
+
+P
+Parental Rights
+
+● Not terminated by guardianship: Doc 1, 3
+● Suspended during guardianship: Doc 3
+● Termination standards (ICWA): Doc 4
+
+Parenting Time
+
+● Required in limited guardianship plan: Doc 3
+● Court can order in full guardianship: Doc 2
+
+Placement Plan (Limited Guardianship)
+
+● Form PC 652: Doc 3, 8
+● Required contents: Doc 3
+● Substantial compliance standard: Doc 3, 7
+
+Power of Attorney
+
+● Alternative to guardianship: Doc 1, 2, 5
+● 180-day maximum (MCL 700.5103): Doc 1, 2, 5, 6
+
+Q
+Qualified Expert Witness (QEW)
+
+● Required for ICWA cases: Doc 4
+● Definition and role: Doc 4
+
+R
+Removal of Guardian
+
+● For cause: Doc 7
+● Who can petition: Doc 7
+● Process: Doc 7
+
+Resignation of Guardian
+
+● Court permission required: Doc 7
+● Cannot abandon duties: Doc 7
+● Successor appointment: Doc 7
+
+Restricted Accounts
+
+● Alternative to conservatorship: Doc 9
+● Court order requirements: Doc 9
+
+S
+Service of Process
+
+● Methods and deadlines: Doc 7, 8
+● Proof of Service (PC 564): Doc 6, 7, 8
+● Publication requirements: Doc 3, 8
+
+Social History
+
+● Form PC 670: Doc 2, 3, 5, 8
+● Confidential filing: Doc 8
+● Required with petition: Doc 8
+
+T
+Temporary Guardianship
+
+● Overview: Doc 1, 5
+● 6-month maximum: Doc 1, 5
+● Emergency appointments: Doc 5
+● During pending case: Doc 5
+
+Termination of Guardianship
+
+● Automatic events: Doc 1, 7
+● By court order: Doc 7
+● Limited vs. full differences: Doc 7
+● Process (PC 675): Doc 7
+
+Testamentary Guardian
+
+● Appointment by will: Doc 2, 5
+● 28-day acceptance deadline: Doc 2
+● Priority status: Doc 2
+
+Tribal Court
+
+● Jurisdiction over Indian children: Doc 4
+● Transfer procedures: Doc 4
+● Intervention rights: Doc 3, 4
+
+U
+Use of Minor's Funds
+
+● Court permission required: Doc 6, 9
+● Form PC 673: Doc 6, 9
+● Room and board reimbursement: Doc 6
+
+V
+Venue
+
+● County where minor resides: Doc 2, 8
+● County where minor is present: Doc 2, 8
+
+Voluntary Guardianship
+
+● See Limited Guardianship: Doc 3
+● Indian child special consent: Doc 4
+
+W
+Waiver/Consent
+
+● Form PC 561: Doc 7
+● Avoids need for hearing notice: Doc 7
+
+
+Forms Quick Reference
+
+Form #NameUsed ForFound In DocsPC 561Waiver/ConsentAgreement to petition7PC 562Notice of HearingCourt date notification7, 8PC 564Proof of ServiceEvidence of notification6, 7, 8PC 571Acceptance of AppointmentGuardian accepts role2, 5, 6, 8PC 583/584Account of FiduciaryAnnual conservator report9PC 633Letters of GuardianshipProof of authority2, 6, 8
+
+PC 639Petition for ConservatorStart conservatorship6, 9PC 650Limited Guardian PetitionParent voluntary placement3, 8PC 651Full Guardian PetitionNon-voluntary guardianship2, 5, 8PC 652Placement PlanLimited guardianship terms3, 8PC 654Annual ReportGuardian's yearly report6, 8PC 670Social HistoryBackground information2, 3, 5, 8PC 672Notice of TemporaryEx parte appointment notice5PC 673Petition to Use FundsRequest to spend minor's money6, 9PC 674InventoryList of minor's assets9PC 675Terminate/ModifyEnd or change guardianship6, 7, 8PC 678Indian Child NoticeICWA/MIFPA notification4, 7PC 684mForeign GuardianOut-of-state registration5PC 686Indian Child ConsentICWA voluntary consent3, 4MC 20Fee Waiver RequestCannot afford filing fee2, 8MC 97/97aProtected InformationConfidential data8
+The following forms are all included within document 8. Filing for Guardianship. Within document 8 the links for the forms are embedded within the text of their corresponding names.  
+Here are all the forms with links provided in the synthesized document:
+State Court Forms (SCAO):
+1. MC 20 - Fee Waiver Request
+2. MC 97 - Protected Personal Identifying Information
+3. MC 97a - Addendum to Protected Personal Identifying Information
+4. PC 562 - Notice of Hearing
+5. PC 563 - Publication of Notice of Hearing
+6. PC 564 - Proof of Service
+7. PC 571 - Acceptance of Appointment
+8. PC 617 - Declaration of Intent to Give Notice by Publication
+9. PC 633 - Letters of Guardianship
+10. PC 650 - Petition for Appointment of Limited Guardian of Minor
+11. PC 651 - Petition for Appointment of Guardian of Minor
+12. PC 652 - Limited Guardianship Placement Plan
+13. PC 654 - Annual Report of Guardian on Condition of Minor
+14. PC 670 - Minor Guardianship Social History
+15. PC 678 - Notice of Guardianship Petition for Indian Child
+Genesee County Local Forms: 16. Authorization for Release of Information (GM-ARI.pdf) 17. Order for Protective Services History Check (GM-PSH.pdf) 18. Minor Guardianship Notice Requirements (GM-NRS-MINOR.pdf)
+Additional Resources: 19. Instructions for Appointment of Guardian of a Minor (Genesee County official instructions) 
+
+
+Key Statutes Reference
+● MCL 700.5201-5219: Minor guardianship laws
+● MCL 700.5103: Power of attorney/delegation
+● MCL 700.5204: Full guardianship grounds
+
+● MCL 700.5205: Limited guardianship
+● MCL 700.5207: Court review requirements
+● MCL 700.5213: Temporary guardianship
+● MCL 700.5215: Guardian powers and duties
+● MCL 700.5401: Conservatorship threshold
+● MCL 712B: Michigan Indian Family Preservation Act
+● 25 USC 1901+: Indian Child Welfare Act
+● MCR 5.402-5.409: Court rules for guardianship proceedings
+
+
+Navigation Tips for Josef Legal AI
+Common User Queries → Document Mapping
+"How do I get guardianship of my grandchild?"
+
+● Start with Doc 1 (Overview)
+● If parents agree → Doc 3 (Limited)
+● If parents don't agree → Doc 2 (Full)
+● For filing process → Doc 8
+"My sister died and left her kids"
+
+● Doc 2 (Full guardianship - death of parent)
+● Doc 8 (Filing procedures)
+● Doc 5 (If immediate care needed)
+
+"Parent wants me to care for child temporarily"
+
+● Doc 3 (Limited guardianship)
+● Doc 1 (Power of attorney option if < 6 months)
+
+"Child has inheritance/settlement money"
+
+● Doc 9 (Conservatorship)
+● Doc 6 (Guardian's financial duties)
+
+"Want to give child back to parent"
+
+● Doc 7 (Termination procedures)
+● Different process for limited vs. full
+
+"Child is part Native American"
+
+● Doc 4 (ICWA/MIFPA requirements)
+● Special rules apply throughout all processes
+
+"Need emergency custody today"
+
+● Doc 5 (Temporary/emergency guardianship)
+● Doc 8 (Emergency filing procedures)
+
+"What forms do I need?"
+
+● Doc 8 (Complete forms list and process)
+● See Forms Quick Reference above
+
+"Guardian not doing their job"
+
+● Doc 7 (Removal procedures)
+● Doc 5 (Temporary replacement)

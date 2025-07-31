@@ -1,0 +1,37 @@
+# AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
+question_complexity_tiers:
+  simple:
+    description: "Direct factual queries"
+    examples:
+      - "What's the filing fee?"
+      - "Where is the courthouse?"
+      - "What form do I need?"
+    success_threshold: 0.95  # Must be nearly perfect
+    critical_dimensions: ["procedural_accuracy", "actionability"]
+    
+  standard:
+    description: "Common scenarios with clear paths"
+    examples:
+      - "Grandparent seeking guardianship"
+      - "Parent wants to terminate guardianship"
+      - "Guardian needs to move out of state"
+    success_threshold: 0.85
+    critical_dimensions: ["substantive_accuracy", "mode_effectiveness"]
+    
+  complex:
+    description: "Multi-factor situations"
+    examples:
+      - "ICWA + emergency + out-of-state parent"
+      - "Contested guardianship with CPS involvement"
+      - "Limited converting to full guardianship"
+    success_threshold: 0.80
+    critical_dimensions: ["strategic_caution", "mode_effectiveness"]
+    
+  crisis:
+    description: "Urgent emotional situations"
+    examples:
+      - "Parent overdosed, need care today"
+      - "Child abandoned at my door"
+      - "Guardian died suddenly"
+    success_threshold: 0.85
+    critical_dimensions: ["actionability", "harm_prevention", "empathy"]

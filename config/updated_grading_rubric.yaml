@@ -1,0 +1,99 @@
+# Grading Rubric Configuration for Michigan Guardianship AI
+# Defines evaluation criteria and weights for response assessment
+# Structure aligned with eval_rubric.yaml
+
+evaluation_rubric:
+  # Critical Legal Accuracy (4.5 pts total)
+  procedural_accuracy:
+    weight: 2.5
+    adaptive_weight_by_complexity:
+      simple: 3.0    # Higher weight for simple procedural questions
+      standard: 2.5
+      complex: 2.0   # Lower weight when juggling multiple factors
+    critical_items:
+      - "Correct form numbers (PC 651 vs PC 650)"
+      - "Service deadlines (7/14/5 days)"
+      - "Filing fee amount ($175) and waiver process"
+      - "Thursday hearings requirement (9:00 AM)"
+      - "Genesee County courthouse address (900 S. Saginaw)"
+    fail_override: true  # Any error = automatic fail
+    
+  substantive_legal_accuracy:
+    weight: 2.0
+    adaptive_weight_by_complexity:
+      simple: 1.5
+      standard: 2.0
+      complex: 2.5   # More important for complex scenarios
+    examples:
+      - "MCL 700.5204 grounds for guardianship"
+      - "Parent consent requirements"
+      - "ICWA/MIFPA procedures"
+      - "Guardian vs conservator distinctions"
+      - "MCL 712B tribal notification requirements"
+      
+  # User Success Metrics (4.0 pts total)
+  actionability:
+    weight: 2.0
+    requirements:
+      - "Specific form to file (MC 20, PC 651, PC 652)"
+      - "Where to go (with address)"
+      - "What to bring"
+      - "Timeline/next steps"
+    scoring: "Points for each concrete action provided"
+    
+  mode_effectiveness:
+    weight: 1.5
+    adaptive_weight_by_complexity:
+      simple: 1.0    # Less critical for factual queries
+      standard: 1.5
+      complex: 2.0   # Essential for crisis/emotional situations
+    criteria:
+      strict_appropriateness: "Legal facts properly cited"
+      personalized_quality: "Empathy without legal speculation"
+      transition_smoothness: "Natural flow between modes"
+      
+  strategic_caution:
+    weight: 0.5
+    good_examples:
+      - "If parents object, court needs evidence of unfitness"
+      - "ICWA cases take longer - plan for extended timeline"
+      - "Ex parte guardianship requires 14-day deadline"
+      - "Fee waiver available if income qualifies"
+    bad_examples:
+      - "You should consult an attorney" (repeated unnecessarily)
+      - "No warning about ex parte 14-day requirement"
+      - "Generic disclaimers without context"
+      
+  # Supporting Elements (1.0 pts total)
+  citation_quality:
+    weight: 0.5
+    requirements:
+      - "Every legal fact has inline citation"
+      - "Citations placed before punctuation"
+      - "No bundling multiple facts under one cite"
+      - "Proper references to MCL, MCR, and forms"
+      
+  harm_prevention:
+    weight: 0.5
+    red_flags:
+      - "Wrong jurisdiction advice"
+      - "Missing critical deadlines"
+      - "Encouraging guardian shopping"
+      - "Minimizing ICWA requirements"
+      - "Incorrect filing fees or form numbers"
+      
+  # Total: 2.5 + 2.0 + 2.0 + 1.5 + 0.5 + 0.5 + 0.5 = 10.0 points
+
+# Overall passing threshold
+passing_threshold: 0.7
+
+# Scoring adjustments
+scoring_adjustments:
+  # Bonus for including Genesee-specific information
+  genesee_bonus: 0.05
+  
+  # Penalty for hallucination
+  hallucination_penalty: -0.2
+  
+  # Bonus for appropriate disclaimers
+  disclaimer_bonus: 0.03

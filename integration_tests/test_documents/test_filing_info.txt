@@ -1,0 +1,23 @@
+Michigan Minor Guardianship - Filing Information Test Document
+
+Filing Fees in Genesee County:
+- The standard filing fee for a minor guardianship petition is $175.00
+- If you cannot afford the filing fee, you may request a fee waiver using Form MC 20
+- The court will review your financial situation to determine eligibility
+
+Court Location:
+Genesee County Probate Court
+900 S. Saginaw Street
+Flint, MI 48502
+
+Hearing Schedule:
+- Guardianship hearings in Genesee County are held on Thursdays
+- Hearings typically start at 9:00 AM
+- You must arrive at least 15 minutes early to check in
+
+Required Forms:
+- Form PC 651: Petition for Appointment of Guardian of a Minor
+- Form PC 652: Notice of Hearing
+- Additional forms may be required based on your specific situation
+
+This is a test document for integration testing purposes.

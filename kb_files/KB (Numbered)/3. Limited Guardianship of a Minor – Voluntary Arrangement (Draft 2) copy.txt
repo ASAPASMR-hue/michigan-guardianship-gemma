@@ -1,0 +1,61 @@
+﻿
+Filing-office contact block: Genesee County Probate Court, 900 S. Saginaw St., Room 502, Flint MI 48502 • (810) 257‑3528
+
+[[DOCUMENT NAME: 3. Limited Guardianship of a Minor - Voluntary Arrangement]]
+[[SCOPE: This document is for parents and relatives in Genesee County, Michigan, who are considering a voluntary guardianship for a minor child. It explains the process, requirements, and legal effects of a limited guardianship. This information is for educational purposes and is not legal advice. For specific questions about your situation, you should consult an attorney. Related topics are covered in other documents (e.g., Document 4: Temporary Guardianships, Document 6: Termination & Modification of Guardianships, and Document 7: Special Rules for Indian Children (ICWA)).]]
+[[SOURCES: MCL 700.5205; MCL 700.5206; MCL 700.5207; MCL 722.26b; MCR 5.404; Michigan Probate Benchbook - Minor Guardianship Proceedings, §§ 6.4, 6.13-6.15, 6.21-6.23, 6.27-6.30, 6.36; Genesee County Probate Court Instructions for Filing a Petition for Appointment of Guardian of a Minor (GM-INSTRUCTIONS-MINOR-GDN.pdf)]]
+Questions & Answers
+Q: How can I let a relative take care of my child?
+A: In Michigan, a limited guardianship is a common way to do this. It is a legal arrangement that you, the parent, voluntarily start. It allows a trusted adult to have legal custody of your child. This arrangement does not have an automatic expiration date but is intended to be temporary, lasting as long as the court-approved Limited Guardianship Placement Plan (LGPP) remains in effect. The arrangement is designed for situations where you plan to resume care of your child in the future.
+Q: Who can start a limited guardianship?
+A: Only the custodial parent or parents may file the petition for a limited guardianship. (MCL 700.5205(1)). Other relatives or interested friends cannot start this process, though a parent can nominate them to serve as the guardian. (Michigan Probate Benchbook § 6.13).
+Q: Is a "limited guardianship" the same as a "temporary guardianship"?
+A: No, they are different legal arrangements.
+● A limited guardianship is based on a detailed, parent-created plan (the LGPP) and does not have a fixed time limit. It ends when a parent has met the plan's conditions and petitions the court.
+● A temporary guardianship is a short-term emergency measure, often used while a full guardianship case is pending. It cannot last longer than six months. (MCL 700.5213(3); Michigan Probate Benchbook § 6.4).
+For more details, see Document 4: Temporary Guardianships.
+Q: What is a Limited Guardianship Placement Plan (LGPP)?
+A: The Limited Guardianship Placement Plan (LGPP) is the most important document in this process. It is a detailed contract between you (the parent or parents) and the person who will be the limited guardian. In Genesee County, you must use the official court form, PC 652. (MCL 700.5205(2)). The plan must clearly state:
+● The specific reasons why the guardianship is needed.
+● The expected length of the guardianship.
+● A detailed parenting time schedule for the parent(s).
+● Who will provide financial support for the child.
+● The specific conditions that must be met for the parent to end the guardianship and have the child returned.
+Q: How do we start a limited guardianship in Genesee County?
+A: The parent(s) with legal custody must take the following steps:
+1. Create the Plan: You and the proposed guardian must agree on the terms for the Limited Guardianship Placement Plan (Form PC 652).
+2. Fill out the Petition: You must fill out the Petition for Appointment of Limited Guardian of Minor (Form PC 650).
+3. File with the Court: File both signed forms with the Genesee County Probate Court.
+4. Pay Fees: You must pay the required court fees when you file. You can request a fee waiver from the court if you cannot afford them.
+5. Background Checks: The proposed guardian and all adults in their home must undergo a criminal history and protective services (CPS) background check. This is mandatory. Note that every adult in the guardian's household must sign a separate Authorization for Release of Information form. 
+6. Court Hearing: The judge will review the petition and plan at a hearing to ensure the arrangement is in the child's best interest before approving it. (MCL 700.5212).
+Q: What are the filing fees in Genesee County?
+A: As of June 2021, the fees are set by local court instruction. (GM-INSTRUCTIONS-MINOR-GDN.pdf).
+● Petition Filing Fee: $175.00 (Paid once when you file the initial petition)
+● Letters of Guardianship: $11.00 per copy (You will need certified copies to give to schools, doctors, etc.)
+● Publication Fee: $96.05 (Only required if you cannot locate a parent and need to serve them notice by publishing in the newspaper)
+
+Q: Do both parents have to agree to the limited guardianship?
+A: It depends on legal custody. (MCL 700.5205(1)).
+● If parents share joint legal custody: Yes, both parents must consent and sign the Petition (PC 650) and the Placement Plan (PC 652).
+● If one parent has sole legal custody: Only that parent needs to sign. However, the non-custodial parent must still be legally notified of the court hearing and has a right to object.
+Q: What are the guardian's duties and limitations?
+A: A limited guardian has the same general powers as a parent to care for the child, but with specific legal duties and limits. (MCL 700.5215).
+● Duties Include: Taking care of the child's personal effects, facilitating education and healthcare, and filing an Annual Report with the court describing the child's condition.
+● Limitations: A limited guardian may not consent to the child's marriage or adoption. (MCL 700.5206(4)). Only a full guardian can do that, and only with court approval.
+Q: Can the limited guardian try to get permanent custody?
+A: A limited guardian has legal standing to file a custody action in circuit court. However, they are blocked from doing so if the parent is substantially complying with the Limited Guardianship Placement Plan. (MCL 722.26b). A parent's compliance with the plan acts as a defense against a custody suit from the limited guardian.
+Q: How often does the court review the guardianship?
+A: The court must review the guardianship at least annually if the child is under six years old. For older children, the court reviews the case as it deems necessary. (MCL 700.5207). The review checks on the child's welfare, the parents' compliance with the plan, and whether the guardianship is still necessary.
+Q: Do I lose my parental rights with a limited guardianship?
+A: No. Your parental rights are temporarily suspended by the court order, not terminated. (MCL 700.5205(1)(b)). You retain the right to have contact with your child (as outlined in the plan) and the right to petition the court to get your child back.
+Q: How do I get my child back and end the limited guardianship?
+A: To end the guardianship, you must file a Petition to Terminate Guardianship with the court. If you prove you have substantially complied with the LGPP, the court must terminate the guardianship. (MCL 700.5209(1)). However, if the court finds you have not complied and that it would disrupt the child, it can continue the guardianship for up to another year and order you to follow a new or existing plan. (MCL 700.5209(2)).
+For more details, see Document 6: Termination & Modification of Guardianships.
+Q: Can I just go pick up my child from the guardian whenever I want?
+A: No. Once the court order is entered, the guardian has legal custody. You cannot take the child back without a new court order that terminates the guardianship. You must follow the official court process to end the arrangement.
+Q: What if my child is an Indian Child?
+A: If your child is a member of, or eligible for membership in, a federally recognized tribe, special federal and state laws apply: the Indian Child Welfare Act (ICWA) and the Michigan Indian Family Preservation Act (MIFPA). These laws add extra protections and procedures.
+● Consent: Your consent to the guardianship must be given in front of a judge and documented on a specific form, Consent by Parent/Indian Custodian to Guardianship of Indian Child (PC 686). (MCL 712B.13).
+● Tribe's Rights: The child's tribe has the right to be notified and to intervene in the court case. (25 USC 1911(c)).
+These rules are complex. For more details, see Document 7: Special Rules for Indian Children (ICWA).

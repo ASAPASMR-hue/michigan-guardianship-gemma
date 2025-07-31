@@ -1,0 +1,127 @@
+﻿7. Ending or Changing a Guardianship (Termination & Modification)
+Audience: Parents, guardians, or older minors in Michigan looking for a step-by-step guide on how to end or change a minor guardianship. This document assumes you are familiar with how guardianships are created. (See Doc 1: Overview of Minor Guardianships in Michigan).
+Q1: How does a minor guardianship end?
+A minor guardianship can end in two ways: (A) automatically when a specific life event occurs, or (B) by a court order after someone files a petition.
+A. Automatic Termination (By Operation of Law)
+A guardianship ends automatically, without any need for a court petition or hearing, when one of the following events happens:
+
+
+A guardianship ends automatically when one of the following events happens:
+* Minor turns 18: The minor reaches the legal age of majority.
+* Minor gets married: The minor is legally married.
+* Minor is emancipated: A court grants the minor legal adult status before age 18.
+* Minor is adopted: The adoption creates a new legal parent-child relationship.
+* Minor dies: The guardianship purpose has ended.
+* Guardian dies or is removed: The guardian's authority terminates upon their death or by a court order removing them. A guardian’s authority also ends if the court accepts their resignation.
+Source: MCL 700.5217; Michigan Probate Benchbook §6.27
+B. Termination by Court Order
+For any other situation, the guardianship continues until a judge formally ends it. Crucially, just returning the child to a parent's care does not legally end the guardianship. The guardian remains legally responsible for the child until the court issues an order terminating their appointment. An informal agreement is not enough.
+Source: Oakland County Guardianship Brochure
+Q2: Who can ask the court to end or change a guardianship?
+The law specifies who can file different types of requests. The same form—Petition to Terminate/Modify Guardianship (PC 675)—is used for all of them.Here's how to file a petition to end or change a guardianship, and who can file, based on what you want to do:
+* To Terminate a FULL guardianship: Only the minor's parent(s) can file the petition (MCL 700.5208).
+* To Terminate a LIMITED guardianship: The minor's parent(s) who have the right to custody can file the petition (MCL 700.5209).
+* To REMOVE a guardian (for cause): Any person interested in the minor's welfare, or the minor if 14 or older, can file the petition (MCL 700.5219).
+* To Have a guardian RESIGN: The guardian themselves can file the petition (MCL 700.5219).
+* To MODIFY a guardianship (e.g., change parenting time): Any person interested in the minor's welfare, or the minor if 14 or older, can file the petition (MCL 700.5219).
+Q3: What are the steps to ask the court for a change?
+The court process generally involves three steps: Petition → Notice → Hearing.
+1. File a Petition: The process starts by filing a Petition to Terminate/Modify Guardianship (Form PC 675) with the same probate court that appointed the guardian. On this form, you will explain who you are, your relationship to the child, and the reasons you are asking the court to make a change. A filing fee may be required.
+2. Give Notice to Interested Persons: You must formally notify all "interested persons" about the hearing. This means serving them with a copy of your petition and a Notice of Hearing (PC 562). This list includes the child's parents, the child (if 14+), the current guardian, and anyone with primary care of the child.
+   * Deadlines: Service must be completed at least 7 days before the hearing if done by personal delivery or e-service, and at least 14 days before the hearing if done by mail.
+   * Proof: You must file a Proof of Service (PC 564) with the court before the hearing to show everyone was properly notified.
+   * Waiver: If everyone agrees, they can sign a Waiver/Consent (PC 561) form. This tells the judge they agree with the petition and waives the need for a formal hearing notice.
+3. Attend a Hearing: The judge will hold a hearing to listen to all sides. The judge's final decision will be based on what is in the child's best interests. If the judge agrees with your petition, they will issue a new court order that officially terminates or modifies the guardianship.
+Source: MCR 5.105, 5.108; SCAO Form PC 675
+Q4: As a parent, how can I regain custody of my child?
+The process and what you need to prove depend on the type of guardianship.
+For a Limited Guardianship:
+A limited guardianship is created with the parent's consent and is based on a Limited Guardianship Placement Plan, which outlines what the parent must do to regain custody.
+* The Standard: If a parent petitions the court and can show they have substantially complied with the placement plan, the court must terminate the guardianship. The judge does not have discretion to refuse if you have met your obligations.
+* In other words, if you did what the placement plan asked, the judge has to give your child back.
+* The court may order a transition period of up to six months to help reintegrate the child, sometimes with supervision from the Department of Health and Human Services (DHHS).
+Source: MCL 700.5209(1); Michigan Probate Benchbook §6.30
+For a Full Guardianship:
+Ending a full guardianship is more complex. Because it was created due to parental rights being suspended (not by consent), the judge has more discretion.
+* The Standard: When a parent petitions to terminate, the judge will hold a hearing to determine if ending the guardianship is in the child's best interests. The court will want to see that the parent's circumstances have significantly improved, making them fit to care for the child.
+* To make this decision, the court may order an investigation into the parent's home life, create a "court-structured reintegration plan" for the parent to follow, or appoint a lawyer-guardian ad litem (LGAL) to represent the child.
+Source: MCL 700.5208; MCL 700.5209(2)
+Q5: Can a guardianship be changed without ending it?
+Yes. This is called modification. Any interested person (or the minor, if 14+) can petition the court to modify the guardianship order without terminating it. Common modifications include:
+* Changing the parenting time schedule.
+* Altering the terms of a limited guardianship placement plan.
+* Appointing a co-guardian.
+* Expanding or limiting the guardian's powers.
+The process is the same: you file a Petition to Terminate/Modify Guardianship (PC 675), provide notice, and have a hearing where the judge decides if the change is in the child's best interests. (See Doc 8: Filing for Guardianship for more on procedure).
+Source: MCL 700.5219(3)
+Q6: What if the current guardian needs to step down or be removed?
+* Resignation: A guardian can petition the court to resign. However, they must continue their duties until the judge approves the resignation and either appoints a successor or terminates the guardianship. They cannot simply walk away.
+* Removal: An interested person can petition to have a guardian removed if they are not performing their duties or if removal is in the child's best interest.
+* Successor Guardian: In either case, the petition should ask the court to appoint a successor guardian to take over.
+Source: MCL 700.5219
+Q7: What if the court denies my petition?
+If a judge denies your request, you have options, but they are time-sensitive.
+* Motion for Rehearing: You can file a motion asking the same judge to reconsider their decision. This must typically be done within 21 days of the order.
+* Appeal: You have a right to appeal a final order to the Michigan Court of Appeals. A claim of appeal must be filed within 21 days of the final order.
+These procedures are complex, and you should consult an attorney if you wish to challenge a court's decision.
+Source: MCR 7.204; Michigan Probate Benchbook, Ch. 13
+Q8: What if my child is (or might be) an Indian child?
+Special rules apply under the federal Indian Child Welfare Act (ICWA) and the Michigan Indian Family Preservation Act (MIFPA). If the minor is a member of, or eligible for membership in, a federally recognized tribe, the court process has extra requirements.
+* Notice: You must notify the child's tribe of the proceeding using a special form, Notice of Proceedings Concerning an Indian Child (PC 678).
+* Active Efforts: If a parent is seeking termination, the court may need to find that "active efforts" were made to prevent the breakup of the Indian family. This is a higher standard than in other cases.
+* This is a very specialized area of law. If ICWA or MIFPA might apply, it is critical to get legal advice. (See Doc 4: Guardianship of Indian Children).
+Source: Michigan Probate Benchbook §6.31 et seq.
+Key Takeaways
+* A guardianship does not end just because a child goes back to live with a parent. A formal court order is required.
+* Some events (turning 18, adoption, marriage) end a guardianship automatically.
+* The process to change a guardianship requires filing a Petition (PC 675), giving proper legal notice to family, and attending a court hearing.
+* To end a limited guardianship, a parent must show they followed the agreed-upon plan.
+* To end a full guardianship, a parent must convince a judge it is in the child's best interests.
+* A guardian cannot simply resign; they must get court permission and continue their duties until a successor is appointed or the guardianship is terminated.
+
+
+
+
+Enforcing the Guardianship Order
+
+
+I. Understanding Parental Obligations within Guardianship Orders
+Guardianship orders often impose specific obligations on parents to ensure the minor's welfare. These typically include:
+•
+Reasonable Support Orders: For the minor ward's welfare, the court may at any time order the minor ward's parents to pay reasonable support. A guardian has the power to institute a proceeding to compel a person's performance of a duty to support the ward or to pay money for the ward's welfare.
+•
+Parenting Time and Contact: The court may also order reasonable parenting time and contact of the minor ward with his or her parents.
+•
+Compliance with Limited Guardianship Placement Plans (LGPPs): In limited guardianships, the court must approve a limited guardianship placement plan agreed upon by the parents and the proposed guardian. These plans must include provisions for financial support for the minor. The plan form itself includes a notice that informs a parent that substantial failure to comply with the plan without good cause may result in the termination of the parent's parental rights.
+•
+Compliance with Court-Structured Plans: For full guardianships, the court may order parents to follow a court-structured plan to enable the minor's return home. Parents are expected to comply with these plans.
+II. Judicial Mechanisms for Addressing Non-Compliance
+If a parent violates a court order or fails to comply with a court-approved plan, the judicial system provides several avenues for enforcement, primarily through petitioning the court for review or modification of the existing order.
+•
+Initiating Support Proceedings: As noted, a guardian has the explicit power to institute a proceeding to compel a person's performance of a duty to support the ward or to pay money for the ward's welfare. The court, as part of the order appointing a guardian, may order reasonable support from the minor's parents.
+•
+Court Review of Guardianships:
+◦
+The court may review a guardianship for a minor as it considers necessary and shall review a guardianship annually if the minor is under 6 years of age.
+◦
+During this review, the court shall consider the parent's and guardian's compliance with a limited guardianship placement plan or a court-structured plan.
+◦
+The court may order the Department of Health and Human Services (DHHS) or a court employee or agent to conduct an investigation and file a written report regarding the compliance and welfare of the minor.
+◦
+After reviewing the report, the court may continue the guardianship or schedule and conduct a hearing on its status.
+•
+Petition to Terminate/Modify Guardianship:
+◦
+Only the minor's parent(s) may petition the court to terminate a guardianship. However, any "person interested in a ward's welfare" or a minor aged 14 or older may petition for the removal of a guardian on the grounds that it serves the ward's welfare, or for "another order that would serve the ward's welfare". This latter provision allows for requests for various orders, including those addressing parental non-compliance.
+◦
+If a parent has not substantially complied with the limited guardianship placement plan, the court may take various actions described in MCL 700.5209(2). These actions include:
+▪
+Terminating the guardianship if it's in the minor's best interest, and entering orders to facilitate the minor's reintegration into the parent's home for up to six months.
+▪
+Ordering DHHS to supervise the transition period or provide services to facilitate reintegration.
+▪
+Continuing the guardianship for up to one year, ordering the parents to comply with the existing LGPP, a court-modified LGPP, or a court-structured plan. The court may also schedule a further review hearing.
+▪
+Appointing an attorney to represent the minor or referring the matter to DHHS, either of whom may file a child protection complaint in the family division of the circuit court.
+•
+Termination of Parental Rights: Substantial failure by a parent, without good cause, to comply with a limited guardianship placement plan (or a court-structured plan for full guardianships) to the extent that it has disrupted the parent-child relationship, can be a ground for the termination of parental rights under the Juvenile Code. This is a very serious consequence.

@@ -1,0 +1,129 @@
+# Genesee County Specific Information - Michigan Minor Guardianship
+
+**IMPORTANT**: This document contains county-specific details that must
+be included in all responses when relevant. These details override any
+generic Michigan information.
+
+## Court Information
+
+### Location & Contact
+
+-   **Court Name**: Genesee County Probate Court
+-   **Address**: 900 S. Saginaw St., Room 502, Flint, MI 48502
+-   **Phone**: (810) 257-3528
+-   **Hearing Days**: **THURSDAYS ONLY** (critical detail - hearings are
+    scheduled only on Thursdays)
+
+## Filing Fees & Costs
+
+### Standard Fees
+
+-   **Petition to Appoint Guardian**: \$175.00
+-   **Letters of Guardianship**: \$11.00 per certified copy
+-   **Publication Fee** (when required): \$96.05
+    -   Money order required, payable to: Flint-Genesee County Legal
+        News
+    -   Required when parent/interested party cannot be located
+
+### Payment Methods
+
+-   **Accepted**: Cash, money order, credit/debit card
+-   **NOT Accepted**: Personal checks
+-   **Fee Waiver**: Available via Form MC 20 for those who qualify (125%
+    of federal poverty guidelines or financial hardship)
+
+## Filing Procedures & Deadlines
+
+### Initial Filing Requirements
+
+1.  **Forms to File Together**:
+    -   Petition (PC 651 for full, PC 650 for limited)
+    -   Minor Guardianship Social History (PC 670) - REQUIRED at time of
+        filing
+    -   Local forms:
+        -   Authorization for Release of Information (for each adult in
+            proposed guardian's home)
+        -   Order for Protective Services History Check
+        -   Minor Guardianship Notice Requirements
+2.  **Supporting Documents**:
+    -   Minor's birth certificate (original or certified copy)
+    -   Death certificate(s) if applicable
+    -   Any relevant court orders
+
+### Notice and Service Requirements
+
+-   **Proof of Service (PC 564)**: Must be filed at least **5 days**
+    before the hearing
+-   **Service Deadlines**:
+    -   Personal service: At least 7 days before hearing
+    -   First-class mail: At least 14 days before hearing
+    -   Publication: At least 14 days before hearing
+
+### Local Form Names
+
+-   Authorization for Release of Information (GM-ARI.pdf)
+-   Order for Protective Services History Check (GM-PSH.pdf)
+-   Minor Guardianship Notice Requirements (GM-NRS-MINOR.pdf)
+
+## Genesee County Specific Procedures
+
+### Background Checks
+
+-   **Required for**: All adults living in the proposed guardian's home
+-   **Types**:
+    -   Criminal History Check (LEIN)
+    -   DHS Central Registry Clearance
+-   **Process**: Each adult must sign separate Authorization for Release
+    of Information
+
+### Court Scheduling
+
+-   Hearings typically scheduled at least 6 weeks after filing to allow
+    time for:
+    -   Background checks
+    -   DHHS investigation (if ordered)
+    -   Proper notice to all parties
+
+### Annual Reporting
+
+-   Annual Report (PC 654) due within 56 days of appointment anniversary
+-   Must be served on interested parties
+-   Proof of Service required
+
+## Important Local Practices
+
+1.  **Missing Your Hearing**: If petitioner fails to appear, petition
+    will be dismissed and process must start over
+
+2.  **Address Changes**:
+
+    -   Guardian's address change: Notify within 7 days
+    -   Minor's address change: Notify within 14 days
+
+3.  **Letters of Guardianship**: Many agencies require Letters dated
+    within last 6 months
+
+## Resources
+
+### Where to Get Forms
+
+-   Michigan Courts website (SCAO approved forms)
+-   Genesee County Probate Court website (local forms)
+-   Clerk's office at the courthouse
+
+### Legal Assistance
+
+While court staff cannot provide legal advice, they can: - Explain which
+forms are needed - Provide filing instructions - Answer procedural
+questions
+
+### Publication Service
+
+-   **Newspaper**: Flint-Genesee County Legal News
+-   **Address**: 100 E. First St., Flint, MI
+-   **Process**: They will publish notice and provide sworn affidavit
+
+------------------------------------------------------------------------
+
+*Always verify current fees and procedures with the court, as they may
+change*

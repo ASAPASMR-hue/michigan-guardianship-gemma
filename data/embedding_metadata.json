@@ -1,0 +1,16 @@
+{
+  "documents": {
+    "/Users/claytoncanady/Library/michigan-guardianship-ai/kb_files/test_incremental.txt": {
+      "content_hash": "7bc95aa4c9edc2ac152085a476ef4c37946306992929707c990f49a66827686d",
+      "chunk_ids": [
+        "test_incremental_0000"
+      ],
+      "num_chunks": 1,
+      "last_modified": "2025-07-10T13:54:56.214123"
+    }
+  },
+  "last_updated": "2025-07-10T13:54:56.214137",
+  "embedding_model": "SentenceTransformer(\n  (0): Transformer({'max_seq_length': 256, 'do_lower_case': False, 'architecture': 'BertModel'})\n  (1): Pooling({'word_embedding_dimension': 384, 'pooling_mode_cls_token': False, 'pooling_mode_mean_tokens': True, 'pooling_mode_max_tokens': False, 'pooling_mode_mean_sqrt_len_tokens': False, 'pooling_mode_weightedmean_tokens': False, 'pooling_mode_lasttoken': False, 'include_prompt': True})\n  (2): Normalize()\n)",
+  "chunk_strategy": "semantic",
+  "version": "1.0"
+}

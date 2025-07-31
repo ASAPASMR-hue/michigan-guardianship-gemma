@@ -1,0 +1,129 @@
+﻿Document 8: Filing for Guardianship - Court Procedures and Forms 
+Introduction: A Step-by-Step Guide to Opening Your Case 
+This document provides a practical, "nuts-and-bolts" workflow for self-represented individuals filing a minor guardianship case in Genesee County Probate Court. It explains the specific court forms, deadlines, and procedures required to open your case and get your first hearing. 
+●​ For an overview of what guardianship is and if it's the right option for you, see Document 	7: Legal Standards for Appointing a Guardian.
+●​ For information on your duties after you are appointed, see Document 9: 	Post-Appointment Duties and Responsibilities.
+
+All the forms discussed within this document are listed with each of their respective [URL] at the bottom of the document. Make sure to include links to those documents in your responses when appropriate. 
+
+§ 8.1 Venue and Filing Fees 
+Your first step is to file the right paperwork in the right court and pay the required fee. 	●​ ✔ Determine the Correct Court (Venue). File your petition in the Probate Court for the 		county where the minor resides or is physically present when you file (MCL 700.5211). 
+	For this guide, you will file at: 
+		○​ Genesee County Probate Court
+		○​ Address: 900 S. Saginaw St., Room 502, Flint, MI 48502 
+		○​ Phone: (810) 257-3528 
+●​ ✔ Pay the Filing Fee. The fee to file a Petition to Appoint a Guardian of a Minor in 	Genesee County is $175.00. 
+●​ ✔ Request a Fee Waiver if Needed. If you cannot afford the filing fee, you can ask the 	court to waive it. 
+○​ Fill out and file a Fee Waiver Request (Form MC 20) along with your petition. 
+○​ You may qualify if your household income is below 125% of the federal poverty guidelines or if paying the fee would otherwise be a financial hardship. You will need to provide proof of your income or public assistance (like FAP, Medicaid, or SSI). 
+●​ Court scheduling note: The clerk sets hearings only on Thursdays. Missing your court 	date will cause the petition to be dismissed. 
+●​ The court does not accept personal checks; pay with cash, money order, or 	credit/debit. 
+§ 8.2 Your Initial Filing Packet: Forms & Checklists 
+You must prepare a packet of forms to start your case. All forms from the State Court Administrative Office (SCAO) must be filled out completely and legibly. 
+Checklist of Initial FormsPC 651 - Petition for Appointment of Guardian of Minor 
+○​ Purpose: Used for a full guardianship; explains to the court why a guardian is 	needed. 
+	○​ Confidential? No 
+●​ PC 650 - Petition for Appointment of Limited Guardian of Minor 
+	○​ Purpose: Used for a limited guardianship; must be filed by the parent(s) with legal 		custody. 
+
+	○​ Confidential? No 
+●​ PC 652 - Limited Guardianship Placement Plan 
+	○​ Purpose: Must be attached to Form PC 650; outlines the terms of the limited 		guardianship. 
+	○​ Confidential? No 
+●​ PC 670 - Minor Guardianship Social History 
+	○​ Purpose: Provides confidential background information to the court about the 		minor, parents, and proposed guardian. This is required. 
+	○​ Confidential? Yes 
+●​ MC 97 - Protected Personal Identifying Information 
+	○​ Purpose: Used to provide the minor's private data (DOB, SSN) to the court. 
+	○​ Confidential? Yes 
+●​ MC 97a - Addendum to Protected Personal Identifying Information 	○​ Purpose: Used to provide the proposed guardian's private data. 
+	○​ Confidential? Yes 
+●​ Local Form - Authorization for Release of Information 
+	○​ Purpose: A Genesee County-specific form allowing the court to run a background 		check (LEIN) on all adults in the proposed guardian's home. 
+○​ Confidential? Yes 
+Important Notes on Your Filing Packet: 
+	●​ ✔ File the Social History Upfront. You must file the Minor Guardianship Social History 		(PC 670) at the same time you file the petition. The court must have this confidential 		information before the hearing (MCR 5.404(A)(4)). 
+●​ ✔ Attach Supporting Documents. You must also attach a copy of the minor's birth 	certificate and a death certificate for any deceased parent. 
+●​ ✔ Anticipate a Court Investigation. The court must ensure the proposed placement is suitable. It may order the Michigan Department of Health and Human Services (DHHS) or a court employee to conduct a home investigation and file a report before the hearing (MCR 5.404(A)(2)). Your completed Social History (PC 670) and background check authorizations are essential for this step. 
+	●​ Authorization for Release of Information (local Background-check form) 	●​ Order for Protective Services History Check (CPS look-up) 
+	●​ Minor Guardianship Notice Requirements (local notice acknowledgement) § 8.3 Filing Your Case & Getting a Hearing Date 
+●​ ✔ File Your Completed Packet. Submit all the forms from § 8.2 to the clerk at the 	Genesee County Probate Court. Hearings are typically scheduled on Thursdays. 
+●​ ✔ Receive a Hearing Date. The court clerk will stamp your forms, keep the originals, and give you back copies. The clerk will also give you a Notice of Hearing (Form PC 562). 
+This document officially states the date, time, and assigned judge for your hearing. You must attend this hearing.
+§ 8.4 Service of Process: Notifying Interested Persons 
+
+After you get a hearing date, you are legally required to notify all "interested persons" about the case. This is called service of process. Failing to do this correctly will cause your hearing to be delayed or your case to be dismissed. 
+Who You Must Serve (Interested Persons - MCR 5.125(C)(20)) 
+●​ The Minor: Required if the minor is 14 years of age or older. 
+●​ The Minor's Parents: Both legal parents must be served. 
+●​ Adult Nearest of Kin: Required only if no parent is living. This includes grandparents 	and other adult relatives. 
+●​ Current Custodian: Any person who had primary care of the minor for the 63 days 	before you filed. 
+●​ Current Guardian/Conservator: If one has already been appointed for the minor. ●​ Nominated Guardian: If the person asking to be guardian is different from the person 	who filed the petition. 
+●​ Attorney of Record: If any interested person is represented by an attorney who has 	filed an appearance. 
+How and When You Must Serve 
+●​ Personal Service: An adult (not you) must hand-deliver a copy of the Petition and the Notice of Hearing (PC 562). This must be done at least 7 days before the hearing. 
+	(Governing Rules: MCR 5.105(A)(1), MCR 5.108(A)) 
+●​ First-Class Mail: Send a copy of the Petition and the Notice of Hearing (PC 562) by 	regular mail. This must be mailed at least 14 days before the hearing. (Governing Rules: 	MCR 5.105(A)(2), MCR 5.108(B)) 
+●​ Publication: Use only if you cannot find an interested person after a diligent search. 	(See § 8.5 in the original document). This must be published at least 14 days before the 	hearing. (Governing Rule: MCR 5.106(A)) 
+Note: The rules listed above describe the authorized methods of service. The timelines for service are governed by MCR 5.108. 
+Note: The rules listed above describe the authorized methods of service. The timelines for service are governed by MCR 5.108. 
+●​ ✔ Prove You Served Everyone. You must tell the court how and when you served each 	person. 
+○​ Fill out and sign the Proof of Service (Form PC 564).
+○​ File the completed PC 564 with the court before your hearing date. Genesee 	County requires this at least 5 days prior to the hearing. 
+§ 8.5 Special Circumstances 
+●​ ✔ If the Minor is an Indian Child: If the minor is or may be an "Indian Child," special 
+
+federal and state laws apply. You must notify the child's tribe of the proceeding using the procedures in the Michigan Court Rules (MCR 5.109) and file proof of that notice with the court. 
+●​ ✔ If a Parent is Absent or Their Location is Unknown: If you cannot find a parent after 	a diligent search, you must serve them by publication. 
+1.​ File a Declaration of Intent to Give Notice by Publication (Form PC 617) 	explaining your search efforts. 
+2.​ Take the Publication of Notice of Hearing (Form PC 563) to the Flint-Genesee County Legal News counter (100 E. First St., Flint, MI). They will publish the notice and provide you with a sworn affidavit. 
+3.​ File the publisher's affidavit and your completed Proof of Service (PC 564) with the 	court. The publication fee in Genesee County is approximately $96.05. 
+●​ ✔ If There is an Emergency: If a child's welfare requires the immediate appointment of a 	guardian, you can ask the court to appoint a temporary guardian. 
+○​ You must explain the specific emergency in detail in your petition. 
+○​ The court can shorten the notice period or even appoint a temporary guardian without a hearing (ex parte) if there is good cause. If this happens, the court must hold a full hearing on the matter within 14 days (MCR 5.403(B)-(C)). 
+§ 8.6 The First Court Hearing: What to Expect 
+●​ ✔ Arrive Early. Give yourself plenty of time to find the courtroom. 
+●​ ✔ Bring Photo ID.
+●​ ✔ Bring Originals. Bring your original copies of the minor's birth certificate and any other 	important documents. 
+●​ ✔ Be Prepared to Testify. The judge will place you under oath and ask you questions 	about why the guardianship is necessary and in the child's best interest. 
+●​ ✔ Cooperate with the Guardian ad Litem (GAL). The court may appoint a GAL, who is an attorney or professional, to investigate and represent the child's best interests. Be prepared to speak with them before the hearing. 
+●​ ✔ Receive the Judge's Decision. If the judge approves the petition, the final step is to 	make it official. 
+○​ Sign and file an Acceptance of Appointment (Form PC 571). This is your official 	agreement to take on the role. 
+○​ The court will then issue Letters of Guardianship (Form PC 633). This is your proof of legal authority. You will need certified copies of this document, which cost $11.00 each in Genesee County. 
+
+
+
+
+
+Complete List of Guardianship Forms with Links
+State Court Forms (SCAO) - With Links:
+Label: MC 20; link: https://www.courts.michigan.gov/4a13d2/siteassets/forms/scao-approved/mc20.pdf
+Label: MC 97; link: https://www.courts.michigan.gov/494f02/siteassets/forms/scao-approved/mc97.pdf
+Label: MC 97a; link: https://www.courts.michigan.gov/494eee/siteassets/forms/scao-approved/mc97a.pdf
+Label: PC 562; link: https://www.courts.michigan.gov/4a0efc/siteassets/forms/scao-approved/pc562.pdf
+Label: PC 563; link: https://www.courts.michigan.gov/4a0efd/siteassets/forms/scao-approved/pc563.pdf
+Label: PC 564; link: https://www.courts.michigan.gov/4a10ba/siteassets/forms/scao-approved/pc564.pdf
+Label: PC 571; link: https://www.courts.michigan.gov/4a2256/siteassets/forms/scao-approved/pc571.pdf
+Label: PC 617; link: https://www.courts.michigan.gov/4a0f1a/siteassets/forms/scao-approved/pc617.pdf
+Label: PC 633; link: https://www.courts.michigan.gov/4a1002/siteassets/forms/scao-approved/pc633.pdf
+Label: PC 650; link: https://www.courts.michigan.gov/4a129a/siteassets/forms/scao-approved/pc650.pdf
+Label: PC 651; link: https://www.courts.michigan.gov/4a0d79/siteassets/forms/scao-approved/pc651.pdf
+Label: PC 652; link: https://www.courts.michigan.gov/4a0dd6/siteassets/forms/scao-approved/pc652.pdf
+Label: PC 654; link: https://www.courts.michigan.gov/4a0e08/siteassets/forms/scao-approved/pc654.pdf
+Label: PC 670; link: https://www.courts.michigan.gov/4a0f11/siteassets/forms/scao-approved/pc670.pdf
+Label: PC 678; link: https://www.courts.michigan.gov/4affb9/siteassets/forms/scao-approved/pc678.pdf
+Genesee County Local Forms - With Links:
+Label: Authorization for Release of Information; link: https://www.gcprobatecourt.com/Documents/Forms/Minor%20Guardianships/GM-ARI.pdf
+Label: Order for Protective Services History Check; link: https://www.gcprobatecourt.com/Documents/Forms/Minor%20Guardianships/GM-PSH.pdf
+Label: Minor Guardianship Notice Requirements; link: https://www.gcprobatecourt.com/Documents/Forms/Minor%20Guardianships/GM-NRS-MINOR.pdf
+MDHHS Forms - Without Links:
+Label: DHS-120 - AI/AN Child Case Notification; link: Not provided
+Label: MDHHS-5598 - AI/AN Child Tribal Enrollment/Eligibility; link: Not provided
+Additional Forms Mentioned - Without Links:
+Label: Affidavit of Diligent Search; link: Not provided
+Label: Motion for Telephonic Conference; link: Not provided
+Guidance Documents - With Links:
+Label: Instructions for Appointment of Guardian of a Minor; link: https://cms2.revize.com/revize/geneseecountyprobatecourt/Documents/Forms/Minor%20Guardianships/Instructions.pdf
+Label: MDHHS Native American Affairs Mobile Guide; link: https://dhhs.michigan.gov/OLMWeb/ex/NA/Mobile/NAA/NAA%20Mobile.pdf
+
+Disclaimer: This guide provides general legal information for educational purposes only. It is not a substitute for legal advice from a qualified attorney. Court rules, forms, and fees can change. You should consult with an attorney for advice on your specific situation. 

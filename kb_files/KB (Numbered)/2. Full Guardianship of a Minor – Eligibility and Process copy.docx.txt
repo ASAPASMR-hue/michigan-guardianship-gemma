@@ -1,0 +1,109 @@
+﻿2. Full Guardianship of a Minor – Eligibility and Process
+DOCUMENT SCOPE AND INTENDED AUDIENCE: This document provides a detailed explanation of full (also called "general") guardianships for minors in Michigan. It is intended for prospective guardians, concerned relatives, or other individuals who believe a child needs a legal guardian when the parents have not voluntarily consented. It explains the legal grounds for appointing a full guardian under MCL 700.5204, the complete court process, and key legal standards a judge must apply.
+(For voluntary arrangements where parents consent, see Document 3: Limited Guardianship of a Minor – Voluntary Arrangement.)
+Q: What is a full guardianship of a minor?
+A: A full guardianship is a legal arrangement where a Michigan Probate Court appoints a responsible adult (the "guardian") to have the care, custody, and authority to make decisions for a minor child (the "ward"). This process is governed by Michigan's Estates and Protected Individuals Code (EPIC).
+A full guardian has the same powers and responsibilities as a parent (e.g., decisions about school, healthcare, and general welfare), except the guardian is not legally obligated to use their personal funds to support the child. (MCL 700.5215). This type of guardianship is typically required when a child's parents are deceased, missing, unfit, or have otherwise failed to provide a legally authorized home for the child.
+This is different from a conservatorship, which is a separate court proceeding to manage a minor's money or property. (See Document 9: Managing a Minor’s Assets – Conservatorships and Financial Considerations.)
+Q: Who can ask the court to appoint a full guardian?
+A: A petition to appoint a guardian can be filed with the court by:
+* Any person "interested in the welfare of the minor." This is a broad category that can include relatives, family friends, or other adults with a significant relationship to the child.
+* The minor themselves, if they are 14 years of age or older.
+(MCL 700.5204(1); MCR 5.402(B)).
+Q: Under what circumstances can a court appoint a full guardian?
+A: A judge can only appoint a full guardian if specific legal conditions, or "grounds," are met. The person petitioning the court must prove one of the following three situations exists at the time of filing:
+1. Parental Rights are Terminated or Suspended (MCL 700.5204(2)(a)): The legal rights of both of the child's parents (or the sole surviving parent) have been ended or suspended by a formal action, such as:
+   * Death of the parent(s).
+   * A prior court order (e.g., from a child protective proceeding, or a judgment of divorce or separate maintenance).
+   * A judicial determination that a parent is legally incapacitated.
+   * The disappearance of the parent(s).
+   * The confinement of the parent(s) in a place of detention (e.g., jail or prison).
+2. Parents Permit Residence Elsewhere without Legal Authority (MCL 700.5204(2)(b)): The parent(s) have allowed the child to live with another person but have not given that person the necessary legal authority (like a power of attorney) for the child's care and maintenance.
+3. Specific "No Other Parent Available" Scenario (MCL 700.5204(2)(c)): This is a specific situation that requires all of the following conditions to be true:
+   * The child's biological parents were never married to each other.
+   * The parent who has legal custody of the child has died or is missing.
+   * The other biological parent has not been granted legal custody by a court order.
+   * The person asking to be the guardian is related to the child within the fifth degree by marriage, blood, or adoption.
+Appointment by a Parent's Will (Testamentary Appointment)
+A parent can nominate a guardian for their minor child in a will or another signed writing attested by at least two witnesses (MCL 700.5202). This person, called a testamentary guardian, has priority over any other person seeking guardianship. If a court petition for guardianship is filed, the person named in the will has 28 days after receiving notice of the hearing to file an "Acceptance of Appointment" with the court. If they fail to accept within 28 days, the court can proceed with appointing another person. (MCL 700.5204(4)).
+Q: What else must the court find before appointing a guardian?
+A: In addition to proving one of the legal grounds above, the court must also find all of the following at the hearing:
+* A qualified person is seeking the appointment.
+* Venue is proper (the case is filed in the county where the minor resides or is present). (MCL 700.5211).
+* All required notices of the hearing have been given to the interested persons.
+* The appointment will serve the minor's welfare (i.e., it is in the child's "best interest").
+(MCL 700.5213(2); MJI Checklist).
+Special Rule: Indian Children (ICWA/MIFPA)
+If the minor child is, or may be, an "Indian child" as defined by federal and state law, special rules apply. The court has a duty to inquire about the child's potential eligibility for membership in a federally recognized tribe. If the Indian Child Welfare Act (ICWA) or the Michigan Indian Family Preservation Act (MIFPA) applies, the petitioner must provide formal notice to the tribe(s) and make "active efforts" to prevent the breakup of the Indian family. (For a full explanation, see Document 4: Guardianship of Indian Children – ICWA/MIFPA Requirements).
+Q: What is the step-by-step process to get a full guardianship?
+A: The process involves several formal steps, most of which require filing specific forms with the Probate Court.
+Step 1: Gather Initial Documents. Before filing, gather essential documents such as the minor's birth certificate and the death certificate(s) of any deceased parent(s). (GM-INSTRUCTIONS-MINOR-GDN.pdf).
+Attach original or certified copy of the minor’s birth certificate and any death certificates – required at filing in Genesee County
+Step 2: File the Petition and Social History. File a Petition for Appointment of Guardian of Minor (PC 651) and a Minor Guardianship Social History (PC 670) with the Probate Court for the county where the minor lives or is present. (MCL 700.5204(1); MCR 5.404(A)).
+Step 3: Pay the Filing Fee. Pay the court's filing fee, which is typically between $175-$200. In Genesee County, the fee is $175. This fee may be waived if you are unable to pay and the court approves a Fee Waiver Request (MC 20).
+Step 4: Obtain a Hearing Date. The court clerk will set a date and time for the hearing on your petition.
+Step 5: Serve Notice on Interested Persons. You must formally notify all "interested persons" of the hearing by serving them with a copy of the Petition and the Notice of Hearing (PC 562). Interested persons include the minor (if 14+), the parents, the person with current care of the minor, and others. (MCL 700.5213(1); MCR 5.125(C)(20)). Notice must be given at least 7 days before the hearing for personal service and 14 days for service by mail. You must file a Proof of Service (PC 564) with the court. (Ingham County Packet, §E).
+
+
+* Personal delivery: Serve at least 7 days before the hearing. File Proof of Service (PC 564) at least 5 days before the hearing.
+* First-class mail: Serve at least 14 days before the hearing. File Proof of Service (PC 564) at least 5 days before the hearing.
+* Publication: Serve at least 14 days before the hearing. File publisher’s affidavit and Proof of Service (PC 564).
+
+
+Step 6: Investigation and Background Checks. The court will perform criminal history (LEIN) and child protective services (CPS) central registry checks on the proposed guardian. The judge may also order an investigation by the Department of Health and Human Services (DHHS) or appoint a Guardian Ad Litem (GAL) to investigate and report on the child's best interests. (MJI Checklist; Ingham Packet).
+Step 7: Attend the Hearing. The judge will hear testimony and decide if the legal grounds are met and if the guardianship is in the child's best interests. The judge can also make other orders at this time, such as ordering parents to pay support, establishing a parenting time schedule, or appointing a temporary guardian if there is an emergency. (MCL 700.5204(5); MCL 700.5213(3)).
+Step 8: File Acceptance of Appointment. If the judge grants the petition, the appointed guardian must file an Acceptance of Appointment (PC 571) with the court, agreeing to take on the role. (MCL 700.5214).
+Step 9: Receive Letters of Guardianship. Once the Acceptance is filed, the court will issue Letters of Guardianship (PC 633). This is the official document that proves your legal authority to act for the minor.
+Step 10: Fulfill Annual Duties. As guardian, you have ongoing duties, including filing an annual report with the court on the child's condition. (See Document 6: Duties and Responsibilities of a Guardian of a Minor).
+Key SCAO Forms Used in a Full Guardianship
+* PC 651, Petition for Appointment of Guardian of Minor: The main form used to start the court case.
+* PC 670, Minor Guardianship Social History: A confidential form filed with the petition, providing background information on the child and proposed guardian.
+* PC 562, Notice of Hearing: The form used to officially notify interested persons of the court date.
+* PC 564, Proof of Service: The form filed with the court to prove that all interested persons were legally notified.
+* PC 571, Acceptance of Appointment: The form the appointed guardian signs to formally accept their duties.
+* PC 633, Letters of Guardianship: The official document issued by the court that gives the guardian legal authority.
+Q: What if I need to end or change the guardianship later?
+A: A guardianship does not end automatically if a parent's situation improves. A petition must be filed with the court to formally modify or terminate the guardianship, and a judge must find that doing so is in the minor's best interest. (See Document 7: Ending or Changing a Guardianship (Termination & Modification)).
+
+
+How EPIC Guardianship Differs from child-protective custody hearings
+Guardianships as an Alternative to Child Protective Proceedings
+Michigan's legal landscape reveals an increasing trend to initiate guardianships instead of neglect or abuse proceedings as a means to immediately protect children in need. This approach often involves qualified third parties, preferably relatives, stepping in to care for children.
+However, the courts may approach guardianships suggested by the DHHS with caution. It's important to consider whether granting a guardianship in such a scenario might be a disservice to the child or parents, especially if DHHS would otherwise be involved to provide services. To ensure clarity and manage expectations, the court may consider having DHHS attend the guardianship hearing to explain their long-term solution vision for the child. Clarifying these expectations early can help reduce the likelihood of future petitions to modify or terminate the guardianship.
+The Role of DHHS in Guardianship Cases
+The Department of Health and Human Services (DHHS), formerly known as the Family Independence Agency (FIA), plays a significant and multifaceted role in guardianship proceedings:
+•
+Investigations and Reports: The court frequently orders DHHS or its agents to conduct investigations and file written reports regarding proposed or existing guardianships. These reports are filed with the court and served on interested persons. They include a recommendation on whether the guardianship should be continued or modified, and if a modification is recommended, its nature. In some counties, like St. Clair, a DHHS court liaison may be appointed for initial investigations on all new guardianships, as well as for petitions to terminate or modify the guardianship. When DHHS conducts an investigation, protective services staff or foster care staff may be assigned.
+•
+Information Gathering: Guardianship petition forms require petitioners to disclose if the child or parent(s) have had contact with the protective services unit of MDHHS. The proposed guardian's questionnaire also asks about any contact with protective services. Additionally, a Computerized Criminal History (CCH)/Criminal History Record (CHR) and/or Central Registry (CR) clearance may be completed for the nominated guardian if ordered.
+•
+Transition Supervision and Services: If the court decides to terminate a guardianship and reintegrate a minor into their parent's home, it may order DHHS to supervise this transition period (which can last up to six months) and provide necessary services to facilitate the reintegration.
+•
+Limitations on Funds: Notably, in conservatorships for minors, no money will be released to DHHS or at its request to relieve a parental obligation, as such an obligation rests with the parent, not the child.
+Escalation to Child Protective Proceedings
+Guardianship matters can directly transition into child protective proceedings under specific circumstances:
+•
+Referral for Child Protection Complaints: The court has the authority to appoint an attorney to represent the minor or refer the matter to DHHS. This attorney or DHHS may then file a complaint requesting the family division of the circuit court to take jurisdiction of the minor under the child protective provisions of the Juvenile Code.
+•
+"Failed Guardianship" Basis: The concept of a "failed guardianship" can be a legitimate basis for the family division of the circuit court to assume child protection jurisdiction over the minor.
+•
+Noncompliance with Plans: A substantial failure by the parent(s), without good cause, to comply with a limited guardianship placement plan (MCL 700.5205) or a court-structured plan (MCL 700.5207, MCL 700.5209) that results in a significant disruption of the parent-child relationship can serve as a ground for the termination of parental rights.
+•
+Impact on Guardianship Termination: If a petition to take jurisdiction of the minor is filed with the family division of the circuit court, the guardianship generally terminates when the family division authorizes the petition, unless the family division determines that continuing the guardianship is necessary for the child's well-being pending disposition. If such a petition is not filed, the guardianship cannot be continued for more than one year after the termination hearing.
+•
+Jurisdictional Stays: If a child custody action is filed by a guardian or limited guardian in the family division of the circuit court, all probate court guardianship proceedings regarding the minor are stayed until the custody action is resolved. The probate court will then terminate the guardianship upon receipt of a custody determination and order.
+Indian Child Welfare Act (ICWA) and Michigan Indian Family Preservation Act (MIFPA)
+For Indian children, federal and state laws introduce specific requirements that intertwine with child protective proceedings:
+•
+Applicability: The ICWA (25 USC 1901 et seq.) and MIFPA (MCL 712B.1–.41) govern any action removing an Indian child from a parent or an Indian custodian for placement in the home of a guardian. This applies to both voluntary and involuntary guardianships.
+•
+DHHS Duty to Identify: DHHS has a duty to determine if a child is an Indian child at the initial contact and verify tribal membership or eligibility. Courts also inquire about Native American heritage during proceedings.
+•
+"Active Efforts" Requirement: In involuntary guardianships of Indian children, the petitioner must demonstrate that "active efforts" were made to provide remedial services and rehabilitative programs designed to prevent the breakup of the Indian family, and that these efforts proved unsuccessful. These "active efforts" entail more than just a referral to a service; they require active engagement, cultural appropriateness, and extensive searches for extended family, among other specific actions. This standard is considered more heightened than the "reasonable efforts" obligation in typical abuse and neglect matters.
+•
+Qualified Expert Witness: A crucial component for placing an Indian child in foster care, including guardianship placements, is the testimony of at least one qualified expert witness. This expert must have knowledge of the tribe's child-rearing practices and testify that continued custody by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child. Evidence must demonstrate a causal relationship, and poverty alone does not suffice as clear and convincing evidence of likely harm.
+•
+Referral for Child Protective Services: If the petitioner cannot demonstrate that "active efforts" have been made, the court must dismiss the guardianship petition and may refer the petitioner to DHHS for child protective services or to the tribe for services
+
+
+Filing-office contact block: Genesee County Probate Court, 900 S. Saginaw St., Room 502, Flint MI 48502 • (810) 257‑3528

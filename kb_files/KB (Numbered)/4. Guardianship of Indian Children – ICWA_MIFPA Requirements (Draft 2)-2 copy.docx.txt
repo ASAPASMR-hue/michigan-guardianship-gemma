@@ -1,0 +1,70 @@
+﻿Document 4: Guardianship of Indian Children – ICWA/MIFPA Requirements
+Why you're here: This guide explains the special legal rules that apply when you ask a Michigan court to appoint a guardian for a child with Native American heritage. These rules exist to protect the child’s connection to their family and tribe.
+* 1. Does This Law Apply?
+* 2. Which Court Hears the Case? (Jurisdiction & Transfer)
+* 3. Notifying the Family and Tribe
+* 4. When a Parent Agrees (Voluntary Guardianship)
+* 5. When a Parent Objects (Involuntary Guardianship)
+* 6. Who Can Be the Guardian? (Placement)
+* 7. After the Order (Record-Keeping & Remedies)
+1. Applicability & Inquiry
+The special protections of the federal Indian Child Welfare Act (ICWA) and Michigan's Indian Family Preservation Act (MIFPA) apply if the case involves an “Indian child.”¹
+* What is an "Indian child"? An Indian child is any unmarried person under 18 who is either:
+   1. A member of a federally recognized Indian tribe; OR
+   2. Eligible for membership in a federally recognized Indian tribe, as determined by the tribe itself.
+* Duty to Inquire: From the very beginning of a guardianship case, the court and the petitioner (the person filing the case) have a duty to ask if the child has Native American heritage. Even a small amount of information, like a family story of tribal ancestry, can trigger these special procedures. You must document all efforts you make to determine if the child is eligible for membership in a tribe.²
+2. Jurisdiction & Transfer to Tribal Court
+Before a Michigan court can proceed, it must determine if it has the authority—or jurisdiction—to hear the case.
+3. Notice Requirements
+If the state court can hear the case, the petitioner must give formal, written notice to the required parties. This is one of the most important steps.
+* Mandatory Form: You must use SCAO Form PC 678 (Notice of Guardianship Proceedings Concerning an Indian Child). A copy of your guardianship petition must be attached.
+* Content of the Notice: To be valid, the notice must include key information, such as:
+   * The child’s name, birthdate, and birthplace.
+   * The names of the child's parents and other direct lineal ancestors, including their tribal enrollment numbers if known.
+   * A copy of the guardianship petition.
+   * A statement of the rights of the parents, Indian custodian, and tribe, including the right to intervene, transfer the case, and have a court-appointed attorney if indigent.⁵
+* Who Gets Noticed: The notice must be sent by registered mail (return receipt requested) to:
+   * The child's parent(s) and Indian custodian.
+   * The child's tribe (or all tribes the child may be eligible to join).
+   * The Bureau of Indian Affairs (BIA) Midwest Regional Director.⁶
+* Waiting Period & Extension: No hearing can happen until at least 10 days after the parties receive notice. The parent, Indian custodian, or tribe can also request up to 20 extra days to prepare for the hearing.⁷
+4. Voluntary Guardianship
+When a parent agrees to a guardianship, ICWA and MIFPA require extra steps to ensure the consent is truly voluntary. Petitioners use Form PC 651ia for a full guardianship or Form PC 650i for a limited guardianship.
+* Consent Checklist: A parent’s consent is valid only if it meets several legal requirements, including that it must be in writing and signed before a judge who certifies the parent understands the consequences.⁸
+* Right to Withdraw Consent: A parent can withdraw their consent for any reason at any time before the final guardianship order is entered. If they do, the child must be returned.⁹
+5. Involuntary Guardianship
+If a third party seeks guardianship against a parent's wishes, it is considered an "involuntary" proceeding. The law views this as a "foster care placement" and requires a much higher level of proof.
+* Standard of Proof: The judge must hear clear and convincing evidence—including testimony from at least one **Qualified Expert Witness (QEW)**¹—that continued custody with the parent will likely cause serious emotional or physical damage to the child.¹⁰ This is a higher standard than for other guardianships.
+* "Active Efforts": The petitioner must also prove that "active efforts" were made to provide services to keep the family together.¹ These are more intensive than "reasonable efforts" and can include:
+   * Developing a family service plan with the tribe.
+   * Identifying and using culturally appropriate resources.
+   * Helping the family overcome barriers to services (e.g., providing transportation).
+* Standard for Terminating Parental Rights: A guardianship does not end a parent's rights. Terminating parental rights permanently is a separate action that requires an even higher standard of proof: beyond a reasonable doubt.
+6. Placement Preferences
+If a guardianship is granted, ICWA and MIFPA set a strict order of preference for who should be appointed guardian. The goal is to keep the child connected to their family and culture. The person asking to deviate from this order has the burden of proving there is "good cause" to do so.
+
+
+Preference Order:
+1. A member of the child’s extended family.
+2. A foster home approved by the child’s tribe.
+3. An Indian foster home licensed by the state.
+4. An institution approved by a tribe.
+"Good Cause" to Deviate May Exist If:
+* The child is old enough to have a preference.
+The child has extraordinary physical or emotional needs that require a special placement.7. Record-Keeping & Remedies
+* Keeping Records: The petitioner must file the registered mail receipts and any other proof of service with the court. Failing to keep a complete record of notice is a common reason for guardianship orders to be overturned on appeal.¹²
+* Right to Invalidate Orders: If a guardianship order is entered in violation of ICWA/MIFPA's rules on notice, transfer, or placement, an Indian child, parent, custodian, or the tribe can later petition the court to invalidate that order.¹³
+Disclaimer: This document provides general information and is not a substitute for legal advice from a qualified attorney. Guardianship laws, especially those involving ICWA and MIFPA, are complex.
+¹ Key Terms: Indian Custodian means an Indian person who has legal custody of an Indian child under tribal law or custom or under State law, or to whom temporary physical care, custody, and control has been transferred by the parent of such child. Qualified Expert Witness (QEW) is a person recognized by the tribe or who has special knowledge of the tribe’s customs and child-rearing practices. Active Efforts are intensive services provided to a family to prevent the removal of an Indian child and to reunify the family. See MCL 712B.3; 25 CFR 23.2.
+² See MCL 712B.9(3)-(4); MCR 5.404(A)(1).
+³ MCR 5.402(E)(2); MCL 712B.7(1).
+⁴ MCL 712B.7(3).
+⁵ 25 CFR 23.111(d); SCAO Form PC 678.
+⁶ The address is: Midwest Regional Director, Bureau of Indian Affairs, Norman Pointe II Building, 5600 W. American Blvd., Suite 500, Bloomington, MN 55437. See SCAO Form PC 678.
+⁷ 25 USC 1912(a); MCL 712B.9(2).
+⁸ See checklist at MCL 712B.13 and MCR 5.404(B). Consent requires using Form PC 686.
+⁹ MCL 712B.13(4); 25 CFR 23.127.
+¹⁰ 25 CFR 23.121(c); MCL 712B.15(2).
+¹¹ MCL 712B.23(5).
+¹² See In re Morris, 491 Mich 81 (2012).
+¹³ 25 USC 1914; MCL 712B.41.

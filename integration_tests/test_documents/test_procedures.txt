@@ -1,0 +1,29 @@
+Michigan Minor Guardianship - General Procedures Test Document
+
+Steps to File for Guardianship of a Minor:
+
+Step 1: Determine Eligibility
+- You must be at least 18 years old
+- You must not have a criminal history that would disqualify you
+- You should have a suitable relationship with the child
+
+Step 2: Complete Required Forms
+- Form PC 651 - Petition for Appointment of Guardian
+- Form PC 652 - Notice of Hearing  
+- Form PC 654 - Testimony to Identify Heirs
+
+Step 3: File with the Court
+- Submit forms to Genesee County Probate Court
+- Pay filing fee of $175 or request fee waiver (Form MC 20)
+- Obtain hearing date (will be on a Thursday)
+
+Step 4: Serve Notice
+- Notify all interested parties at least 14 days before hearing
+- This includes parents, current guardians, and the child if 14 or older
+
+Step 5: Attend Hearing
+- Bring all documentation
+- Be prepared to explain why guardianship is necessary
+- The judge will make a determination based on the child's best interests
+
+This is a test document for integration testing purposes.

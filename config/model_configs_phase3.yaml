@@ -1,0 +1,89 @@
+# Model configurations for Phase 3 testing
+# 6 Google AI Studio models + 5 OpenRouter models
+
+models:
+  # Google AI Studio models
+  - id: "google/gemini-2.5-flash-lite"
+    api: "google_ai"
+    name: "Gemini 2.5 Flash Lite"
+    description: "Lightweight version of Gemini 2.5"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "google/gemma-3n-e4b-it"
+    api: "google_ai"
+    name: "Gemma 3n E4B IT"
+    description: "Instruction-tuned Gemma variant"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "google/gemma-3-4b-it"
+    api: "google_ai"
+    name: "Gemma 3 4B IT"
+    description: "4B parameter Gemma model"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "google/gemini-2.0-flash-lite-001"
+    api: "google_ai"
+    name: "Gemini 2.0 Flash Lite"
+    description: "Lightweight Gemini 2.0 variant"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "google/gemini-2.0-flash-001"
+    api: "google_ai"
+    name: "Gemini 2.0 Flash"
+    description: "Fast Gemini 2.0 model"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "google/gemini-flash-1.5-8b"
+    api: "google_ai"
+    name: "Gemini Flash 1.5 8B"
+    description: "8B parameter Gemini Flash"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  # OpenRouter models
+  - id: "mistralai/mistral-small-24b-instruct-2501"
+    api: "openrouter"
+    name: "Mistral Small 24B"
+    description: "Latest Mistral small model"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "mistralai/mistral-nemo:free"
+    api: "openrouter"
+    name: "Mistral Nemo (Free)"
+    description: "Free tier Mistral Nemo"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "meta-llama/llama-3.3-70b-instruct:free"
+    api: "openrouter"
+    name: "Llama 3.3 70B (Free)"
+    description: "Free tier Llama 3.3 70B"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "microsoft/phi-4"
+    api: "openrouter"
+    name: "Microsoft Phi-4"
+    description: "Microsoft's Phi-4 model"
+    temperature: 0.1
+    max_tokens: 2000
+    
+  - id: "meta-llama/llama-3.1-8b-instruct"
+    api: "openrouter"
+    name: "Llama 3.1 8B"
+    description: "Llama 3.1 8B instruction model"
+    temperature: 0.1
+    max_tokens: 2000
+
+# Testing configuration
+testing:
+  timeout: 180  # seconds
+  retrieval_top_k: 5
+  system_prompt_version: "v1.1"
+  batch_size: 10  # Process questions in batches for progress updates

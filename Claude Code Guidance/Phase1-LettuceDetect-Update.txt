@@ -1,0 +1,11 @@
+I interrupted to integrate real LettuceDetect (it's on PyPI/GitHub, not a mock). Resume the plan with these updates:
+
+1. In requirements.txt: Add lettucedetect (already done, but confirm install).
+2. In validator_setup.py:
+	Update import: from lettucedetect.models.inference import HallucinationDetector
+	Initialize: self.hallucination_detector = HallucinationDetector(method="transformer", 		model_path="KRLabsOrg/lettucedect-base-modernbert-en-v1")
+	In check: Use detector.predict(context=chunks, question=query, answer=response, 		output_format="spans") and score based on confidence >0.5 for hallucinations.
+	Handle deps: Add try/except; if fail, fallback to semantic similarity with sentence-		transformers (e.g., cosine sim between response and chunks, threshold 0.8).
+3. Rerun python scripts/validator_setup.py after fixes.
+4. Proceed to eval_rubric.py, tests, Makefile, commit.
+Proceed with "Yes".

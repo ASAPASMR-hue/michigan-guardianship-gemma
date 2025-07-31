@@ -1,0 +1,41 @@
+# AUTO-GENERATED FROM docs/Project_Guidance_v2.1.md – DO NOT EDIT BY HAND
+chunk_config:
+  size: 1000
+  overlap: 100
+  separators:
+  - '
+
+    ## '
+  - '
+
+    ### '
+  - '
+
+    MCL '
+  - '
+
+    PC '
+  - "\n\xA7 "
+  - '
+
+    - '
+  - '
+
+
+    '
+  preserve_together:
+  - (Form PC \d+.*?)\n
+  - (MCL \d+\.\d+.*?)\n
+  - (\$\d+.*?waiver.*?)\n
+  - (\d+ days?.*?)\n
+metadata_schema: null
+embedding_update_strategy:
+  method: incremental
+  trigger: on_document_change
+  process: "\n    1. Identify changed chunks via content hash\n    2. Re-embed only\
+    \ modified chunks\n    3. Update vector store with upsert\n    4. Maintain version\
+    \ history for rollback\n    "
+  full_rebuild_triggers:
+  - embedding_model_change
+  - chunk_strategy_change
+  - quarterly_maintenance

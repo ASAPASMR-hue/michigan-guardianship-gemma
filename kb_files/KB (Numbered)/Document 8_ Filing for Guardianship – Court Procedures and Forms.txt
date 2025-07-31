@@ -1,0 +1,104 @@
+﻿
+
+Document 8: Filing for Guardianship - Court
+Procedures and Forms
+Introduction: A Step-by-Step Guide to Opening Your Case
+This guide provides a practical, "nuts-and-bolts" workflow for self-represented individuals filing a  minor guardianship case in Genesee County Probate Court. It explains the specific court forms, deadlines, and procedures required to open your case and get your first hearing.
+For an overview of what guardianship is and whether it's the right option for you, see  Document 7: Legal Standards for Appointing a Guardian (overview of guardianship law).
+For  information  on  your  duties  after  you  are  appointed,  see  Document  9:  Post-Appointment  Duties  and Responsibilities (what to do once you're a guardian).
+8.1 Venue and Filing Fees
+Your first step is to file the right paperwork in the right court and pay the required fee.
+• ✔Determine the Correct Court (Venue). File your petition in the Probate Court for  the county where the minor resides or is physically present at the time of filing (per MCL 700.5211). For this guide, you will file in: 
+Genesee County Probate Court 
+Address: 900 S. Saginaw St., Room 502, Flint, MI 48502 
+Phone: (810) 257-3528
+• ✔Pay the Filing Fee. The fee to file a Petition to Appoint a Guardian of a Minor in Genesee County 	is $175.00.
+• ✔Request a Fee Waiver if Needed. If you cannot afford the filing fee, you can ask the court to waive it. Complete and submit a Fee Waiver Request - Form MC 20 along with your petition. You may qualify for a waiver if your household income is below 125% of the federal poverty guidelines or if paying the fee would be a financial hardship. (You will need to provide proof of your income or public assistance, such as FAP, Medicaid, or SSI.)
+Note: The court schedules  guardianship hearings on Thursdays. Missing your court date will result in your petition being dismissed. Also, the court does not accept personal checks for the filing fee - pay with cash, money order, or credit/debit.
+1
+
+
+8.2 Your Initial Filing Packet: Forms & Checklists
+You must prepare a packet of forms to start your case. All required State Court Administrative Office (SCAO) forms must be filled out completely and legibly. The forms you will need include:
+• Download Form PC 651 - Petition for Appointment of Guardian of Minor (for a full guardianship). 	This petition explains to the court why a guardian is needed for the child. Not confidential.
+• Download Form PC 650 - Petition for Appointment of Limited Guardian of Minor (for a limitedguardianship). This is used only when a custodial parent voluntarily agrees to suspend their parental rights. It must be filed by the parent(s) with legal custody. Not confidential.
+• Download  Form  PC  652  -  Limited  Guardianship  Placement  Plan (required  only  for  limited guardianships). This plan must be attached to Form PC 650. It outlines the agreement between the parent(s)  and  the  proposed  guardian,  including  the  reasons  for  the  guardianship,  visitation schedule, and financial support. Both the parent(s) and the proposed guardian must sign it.  Not confidential.
+• Download Form PC 670 - Minor Guardianship Social History. This is a confidential questionnaire that provides detailed background information about the child, the parents, and the proposed guardian.  Genesee County requires that this form be filed at the same time as the petition. Confidential.
+• Download Form MC 97 - Protected Personal Identifying Information andDownload Form MC 97a - Addendum to Protected Personal Identifying Information. These confidential forms are used to provide the court with sensitive information (like dates of birth, Social Security numbers, driver's license numbers) for the minor (MC 97) and for other individuals such as the proposed guardian (MC 97a). By using these forms, you keep that personal data out of the public court file. Both are confidential.
+• Download Genesee County Authorization for Release of Information (local form for backgroundcheck). Each adult living in the proposed guardian's home must fill out this Genesee-specific form. It allows the court to conduct a LEIN criminal history check on those individuals as part of assessing the guardianship. Confidential.
+• Order for Protective Services History Check (CPS clearance request). This is a Genesee-specific form (modeled after Michigan DHS-1929) that the court uses to request any Children's Protective Services  history  for  the  proposed  guardian  and  other  adults  in  the  home.  The  form  must  be completed (one per household member) and is confidential. Court staff may provide this form; you should fill it out and include it in your filing packet.
+• Download Genesee Minor Guardianship "Notice Requirements" Acknowledgment (local form). This is a checklist that each petitioner must sign to confirm they understand who must be given notice of the guardianship hearing (the "interested persons," discussed in § 8.4 below). It lists all parties that require notice and the timing/methods of service. Not filed with the court, but you must sign and return it to the court to proceed.
+2
+
+
+• Download Form PC 571 - Acceptance of Appointment. This form will be needed after the court grants the guardianship. It is completed by the person appointed as guardian to formally accept the appointment and agree to perform the guardian's duties. (You can fill it out in advance and have it ready for the hearing.) Not confidential.
+In addition to the forms above, you must also attach the following supporting documents to your initial filing packet:
+• The minor's birth certificate. (Attach a copy, not the original.)
+• Death certificate(s) for any of the minor's parents who are deceased.
+• Copies of any relevant existing court orders involving the minor (for example, a divorce or custody 	order, or prior guardianship/conservatorship orders).
+Important Notes on Your Filing Packet:
+• ✔File the Social History Upfront. You must file the Minor Guardianship Social History (PC 670) at the same time you file the petition. The court needs this confidential background information before the hearing can be held (MCR 5.404(A)(4)).
+• ✔Attach Supporting Documents. Be sure to attach the child's birth certificate and any required 	death certificates to your petition. Missing required documents will delay your case.
+• ✔Anticipate a Court Investigation. The court must ensure the proposed guardian placement is suitable for the child. The judge may order the Michigan Department of Health and Human Services (DHHS) or a court employee to conduct a home investigation and file a report before the hearing (MCR 5.404(A)(2)). Your completed Social History (PC 670) and the background-check authorization forms are essential for this step. Do not leave any question blank on these forms.
+Finally, remember that  all forms should be typed or printed clearly. Double-check that every required field is filled in. Incomplete or illegible forms may be rejected by the court, requiring you to re-file and potentially causing delays.
+8.3 Filing Your Case & Getting a Hearing Date
+Once you have completed all the forms in your initial packet from § 8.2, it's time to file them with the court and obtain a hearing date.
+• ✔File Your Completed Packet. Take all of the forms from your packet to the Genesee County Probate Court Clerk's Office (900 S. Saginaw Street, Room 502, Flint). Submit the originals of each form to the clerk and pay the filing fee (or present an approved fee waiver).  In Genesee County, guardianship hearings are usually scheduled on Thursdays.
+• ✔Receive a Hearing Date. The court clerk will time-stamp your documents, keep the originals for the court file, and give you back conformed copies for your records. The clerk will also provide you with a Notice of Hearing (Form PC 562). The Notice of Hearing states the date, time, location, and
+3
+
+
+judge assigned for your guardianship hearing. Make sure you note this information and plan to attend the hearing. (If you miss the hearing, your petition will be dismissed.)
+8.4 Service of Process: Notifying Interested Persons
+After you have a hearing date, you are legally required to notify certain people about the case and the upcoming hearing. This notification process is called  "service of process." Failing to properly notify the required individuals will delay your hearing or cause your case to be dismissed, so this step is critical.
+Who You Must Serve (Interested Persons - MCR 5.125(C)(20)):
+You must give notice of the petition and hearing to all interested persons. In a minor guardianship, the interested persons include:
+• The Minor - if the child is 14 years of age or older, they must be served (personally). 
+• The Minor's Parents - both legal parents (biological or adoptive) must be served (regardless of 	custody status). 
+• Adult Nearest of Kin - if no parent is living, then the closest adult relatives (e.g. adult siblings, 	grandparents, aunts/uncles, in that order) must be served. 
+• The Person with Whom the Child Has Lived - any person who had the principal care and custody of the minor during the 63 days before you filed the petition (if not a parent). This could be a relative or family friend who was taking care of the child. 
+• Any Current Guardian or Conservator for the minor - if the court has already appointed a 	guardian or conservator for this child in the past, that person must be served. 
+	Any Nominated Guardian - if someone else (other than you, the petitioner) is proposed in the• 
+	petition to be the guardian, that person must receive notice (unless they waived notice in writing). • Any Attorney of Record - if any interested person (such as a parent) has an attorney who has 	formally appeared in the case, that attorney must be served.
+(Note: In addition to the above, if the minor may have Native American heritage, there are special notice rules under ICWA/MIFPA - see § 8.5.)
+How and When You Must Serve:
+Michigan  Court  Rules  specify  approved  methods  of  service and  minimum  timeframes.  The  general methods are:
+• Personal Service: Have an unrelated adult (not you) hand-deliver a copy of the  Petition and the Notice of Hearing (PC 562) to the person. This must be done at least 7 days before the hearing date. (Authority: MCR 5.105(A)(1); MCR 5.108(A)).
+• First-Class Mail: Mail a copy of the Petition and Notice of Hearing by regular first-class mail to the person's last known address. This must be done at least 14 days before the hearing. (Authority: MCR 5.105(A)(2); MCR 5.108(B)).
+4
+
+
+• Publication: If you cannot locate an interested person after diligent efforts, you may serve them by publishing a notice in a local newspaper. Publication must occur at least 14 days before the hearing.
+(Authority: MCR 5.106(A); see § 8.5 below for details on the publication process.)
+Note: The rules above describe the  allowed methods of service. The  timing requirements (7 days for personal service, 14 days for mail or publication) are mandatory and governed by MCR 5.108. Plan ahead to ensure you meet these deadlines.
+After serving the interested persons, you must have a way to prove to the court that service was completed.
+• ✔ Prove You Served Everyone. You are required to inform the court, in writing, exactly how and when each interested person was served. To do this, fill out and file theProof of Service (Form PC 564). On this form, you will list each person served, the date they were served, the method of service (personal, mail, etc.), and who served them. You must sign the Proof of Service, swearing that it's accurate. Genesee County requires that the completed Proof of Service (and any supporting documents like affidavits of publication) be filed at least 5 days before the hearing. If you do not timely file a proper Proof of Service, your hearing will likely be postponed or canceled.
+8.5 Special Circumstances
+Certain situations in minor guardianship cases require extra steps or have different rules. Be aware of these special circumstances:
+• ✔If the Minor is or may be an "Indian Child": Additional federal and state laws apply under the Indian Child Welfare Act (ICWA) and the Michigan Indian Family Preservation Act (MIFPA). You must notify the child's tribe (or the Bureau of Indian Affairs, if the tribe is unknown) of the guardianship proceeding and file proof of that notice with the court. Notice to the tribe typically must be done by registered mail with return receipt requested, using forms like  ICWA-030 or  SCAO Form PC 678 (Notice of Guardianship Petition for Indian Child), and the tribe is given time to respond or intervene. If you believe the child has any Native American heritage, it is highly advisable to consult an attorney because ICWA/MIFPA procedures are very specific. (See MCR 5.109 for detailed notice requirements.)
+• ✔If a Parent is Absent or Their Location is Unknown: If you cannot find a parent (or any other interested person) after a diligent search, you will need to give notice by  publication in a local newspaper. This involves several steps:
+• File a Declaration of Intent to Give Notice by Publication: Use Form PC 617 - Declaration of Intent to Give Notice by Publication to explain to the court what efforts you made to locate the person (e.g. checked last known address, contacted relatives, etc.). This form tells the court you plan to publish the hearing notice since the person's address is unknown.
+• Publish the Notice: The court clerk will provide you with a blank Publication of Notice of Hearing (Form PC 563). Fill out the top portion ofForm PC 563 with the hearing information and the name of the person who must be notified. Take the completed PC 563 to the Flint-Genesee County Legal News (100 E. First St., Flint, MI) or another newspaper designated by the court. You must pay the newspaper's fee (approximately $96.05 in Genesee County) to run the notice. The notice must be published at least 14 days before the hearing.
+5
+
+
+• Get Proof of Publication: After the notice runs in the newspaper, the publisher will prepare an Affidavit of Publication (proof that the notice was printed as required). Make sure you obtain this affidavit from the newspaper.
+• File Proof with the Court: Attach the publisher's affidavit to your Proof of Service (PC 564) and file them with the court before the hearing. This shows the judge that you gave notice by publication as allowed. (Genesee County typically requires the Proof of Service with the attached affidavit to be filed 5 days before the hearing, just like any other Proof of Service.)
+• ✔If There is an Emergency Requiring Immediate Guardianship: If the child's welfare requires immediate action (for example, a parent is suddenly incarcerated or hospitalized, and the child has no caregiver), you can ask the court to appoint a temporary guardian before the full hearing. To do this, you should clearly describe the emergency situation in your initial petition (there is a section to request a  temporary guardianship and explain why it's needed). The court has the authority to shorten the notice periods or even appoint a temporary guardian  ex parte (without a hearing) if there is good cause and an emergency. If the court does appoint a temporary guardian ex parte, a full hearing on the guardianship must be held within 14 days (MCR 5.403(B)-(C)). Note: Temporary guardianships in Michigan are time-limited (no more than 6 months) and meant to address short-term emergencies. Document the emergency thoroughly, and be prepared that even if granted, you will still proceed with the regular guardianship process for a long-term solution.
+8.6 The First Court Hearing: What to Expect
+Your hearing is the time when the judge will decide whether to approve the guardianship. It's normal to feel nervous, but knowing what to expect can help you prepare:
+• ✔Arrive Early. On the day of the hearing, plan to arrive at the courthouse well ahead of time. You will need to go through security and find the courtroom. Being early ensures you won't miss your case if the court moves faster than expected.
+• ✔Bring Photo ID. Make sure to bring a government-issued photo identification (such as a driver's license or state ID). You may need it to check in with court staff or to enter the building, and the judge or clerk may also verify your identity.
+• ✔Bring Original Documents. Bring the  original birth certificate of the minor (and any other important original documents you have, such as death certificates or existing court orders). The judge may want to see these, even though you filed copies. It's better to have them on hand just in case.
+• ✔Be Prepared to Testify. The judge will place you under oath and ask you questions about the case- specifically, why the guardianship is necessary and how it is in the child's best interests. Be ready to briefly explain the circumstances that led you to seek guardianship (for example, the parents' situation) and to confirm the information in your petition is true. Answer the judge's questions honestly and stick to the facts.
+6
+
+
+• ✔Cooperate with the Guardian ad Litem (GAL). In some cases, the court may appoint a GAL - a guardian ad litem - to represent the child's best interests. The GAL is usually an attorney or trained professional who will investigate the case (they might interview you, the child, and others, or make a home visit) and make a recommendation to the judge. If a GAL is appointed, be prepared to speak with them before or at the hearing and answer their questions. Their report can significantly influence the judge's decision.
+• ✔Receive the Judge's Decision. After hearing from you (and any other interested persons or the GAL), the judge will decide whether to grant the guardianship. If the judge approves the petition, there are a few final steps to make it official:
+• Sign the Acceptance of Appointment. If not already done, you (the new guardian) must promptly sign and file the Acceptance of Appointment (Form PC 571). This document is your formal agreement to take on the legal duties of guardian. Court staff may have you sign this in the courtroom immediately after the judge's decision.
+• Obtain the Letters of Guardianship. The court will issue Letters of Guardianship (Form PC 633) naming you as the guardian of the minor. The Letters of Guardianship is an official document that serves as proof of your authority to act on the child's behalf. You will need copies of it to show schools, hospitals, etc. In Genesee County, certified copies of the Letters cost $11.00 each. Typically, you should purchase at least one or two certified copies for your use (the court will keep the original on file).
+If the judge does not approve the guardianship (for example, if they find it's not in the child's best interest or procedural requirements weren't met), the judge will explain the next steps. In some cases, the judge might continue (postpone) the hearing to give you time to fix an issue (such as completing service or providing more information).
+After the Hearing: If you are appointed as guardian, be aware that you will now be responsible for certain ongoing duties, such as filing annual reports about the child's well-being (Form PC 654) and keeping the court  informed  of  any  address  changes.  (These  duties  are  covered  in  Document  6:  Duties  and Responsibilities of a Guardian of a Minor.) Make sure you understand these obligations before leaving the court.
+Disclaimer: This  guide  provides  general  legal  information  for  educational  purposes  only.  It  is  not a substitute for legal advice from a qualified attorney. Court rules, forms, and fees can change, and each case is unique. You should consider consulting with an attorney about your specific situation to ensure you fully understand your rights and responsibilities. 
+7
