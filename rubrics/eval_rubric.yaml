@@ -54,7 +54,7 @@ evaluation_rubric:
       - "If parents object, court needs evidence of unfitness"
       - "ICWA cases take longer - plan for extended timeline"
     bad_examples:
-      - '"You should consult an attorney" (repeated unnecessarily)'
+      - "You should consult an attorney (repeated unnecessarily)"
       - "No warning about ex parte 14-day requirement"
       
   # Supporting Elements (1.0 pts total)
