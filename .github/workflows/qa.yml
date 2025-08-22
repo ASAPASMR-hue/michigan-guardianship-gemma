@@ -16,7 +16,7 @@ env:
 
 jobs:
   quality-checks:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     
     steps:
     - uses: actions/checkout@v4
@@ -115,7 +115,7 @@ jobs:
         done
 
   rubric-validation:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: quality-checks
     
     steps:
@@ -178,7 +178,7 @@ jobs:
         "
 
   performance-benchmarks:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: quality-checks
     if: github.event_name == 'pull_request'
     
@@ -225,7 +225,7 @@ jobs:
         "
 
   security-scan:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: quality-checks
     
     steps:
@@ -253,7 +253,7 @@ jobs:
         echo "✓ No hardcoded secrets detected"
 
   phase1-pipeline:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: quality-checks
     
     steps:
@@ -356,7 +356,7 @@ print(f'Average score: {df[\"overall_score\"].mean():.3f}')
         fi
 
   deploy-gate:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: [quality-checks, rubric-validation, performance-benchmarks, security-scan, phase1-pipeline]
     if: github.ref == 'refs/heads/main'
     
