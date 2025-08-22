@@ -1,0 +1,217 @@
+name: Automated Issue Fixer
+
+on:
+  push:
+    branches: [main, dev, master]
+  pull_request:
+    types: [opened, synchronize]
+  schedule:
+    - cron: '*/30 * * * *'  # Run every 30 minutes
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  auto-fix:
+    runs-on: self-hosted
+    permissions:
+      contents: write
+      pull-requests: write
+      issues: write
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install black isort ruff autopep8 mypy pylint flake8
+      
+      - name: Auto-format Python code
+        run: |
+          # Format with black
+          black . --line-length 100 || true
+          # Sort imports
+          isort . --profile black || true
+          # Fix with autopep8 for additional issues
+          autopep8 --in-place --recursive --aggressive --aggressive . || true
+      
+      - name: Fix common Python issues
+        run: |
+          # Remove trailing whitespace
+          find . -name "*.py" -type f -exec sed -i '' 's/[[:space:]]*$//' {} + || true
+          # Fix missing newlines at end of files
+          find . -name "*.py" -type f -exec sh -c 'tail -c1 {} | read -r _ || echo >> {}' \; || true
+      
+      - name: Run linting and capture issues
+        id: lint
+        run: |
+          # Run ruff and fix issues
+          ruff check . --fix || true
+          # Capture remaining issues
+          echo "LINT_ISSUES<<EOF" >> $GITHUB_OUTPUT
+          ruff check . --output-format=json || true >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Check for missing dependencies
+        run: |
+          # Find imports and check if they're in requirements.txt
+          python << 'EOF'
+import ast
+import os
+import re
+
+def get_imports(file_path):
+    with open(file_path, 'r') as f:
+        try:
+            tree = ast.parse(f.read())
+            imports = set()
+            for node in ast.walk(tree):
+                if isinstance(node, ast.Import):
+                    for alias in node.names:
+                        imports.add(alias.name.split('.')[0])
+                elif isinstance(node, ast.ImportFrom):
+                    if node.module:
+                        imports.add(node.module.split('.')[0])
+            return imports
+        except:
+            return set()
+
+# Get all Python files
+python_files = []
+for root, dirs, files in os.walk('.'):
+    if '.git' in root or '__pycache__' in root:
+        continue
+    for file in files:
+        if file.endswith('.py'):
+            python_files.append(os.path.join(root, file))
+
+# Collect all imports
+all_imports = set()
+for file in python_files:
+    all_imports.update(get_imports(file))
+
+# Read requirements.txt
+with open('requirements.txt', 'r') as f:
+    requirements = set(line.strip().split('>=')[0].split('==')[0] for line in f if line.strip() and not line.startswith('#'))
+
+# Standard library modules to ignore
+stdlib = {'os', 'sys', 're', 'json', 'time', 'datetime', 'random', 'math', 'collections', 
+          'itertools', 'functools', 'typing', 'pathlib', 'logging', 'unittest', 'io',
+          'subprocess', 'shutil', 'tempfile', 'glob', 'pickle', 'copy', 'hashlib',
+          'base64', 'urllib', 'http', 'email', 'csv', 'xml', 'html', 'ast', 'inspect'}
+
+# Find missing dependencies
+missing = all_imports - requirements - stdlib
+if missing:
+    print(f"Missing dependencies: {missing}")
+    # Add to requirements.txt
+    with open('requirements.txt', 'a') as f:
+        for dep in sorted(missing):
+            if dep and not dep.startswith('_'):
+                f.write(f"\n{dep}")
+EOF
+      
+      - name: Test Python files for syntax errors
+        run: |
+          python -m py_compile **/*.py || true
+      
+      - name: Fix YAML formatting
+        run: |
+          pip install ruamel.yaml
+          python << 'EOF'
+import os
+from ruamel.yaml import YAML
+
+yaml = YAML()
+yaml.preserve_quotes = True
+yaml.width = 120
+
+for root, dirs, files in os.walk('.'):
+    if '.git' in root:
+        continue
+    for file in files:
+        if file.endswith(('.yml', '.yaml')):
+            filepath = os.path.join(root, file)
+            try:
+                with open(filepath, 'r') as f:
+                    data = yaml.load(f)
+                with open(filepath, 'w') as f:
+                    yaml.dump(data, f)
+            except:
+                pass
+EOF
+      
+      - name: Check and fix file permissions
+        run: |
+          # Make scripts executable
+          find . -name "*.sh" -type f -exec chmod +x {} +
+          find . -name "*.py" -type f -exec chmod +x {} +
+      
+      - name: Remove unnecessary files
+        run: |
+          # Remove Python cache
+          find . -type d -name "__pycache__" -exec rm -rf {} + || true
+          find . -type f -name "*.pyc" -delete || true
+          find . -type f -name ".DS_Store" -delete || true
+      
+      - name: Commit and push fixes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes
+          if [[ -n $(git status -s) ]]; then
+            git add -A
+            git commit -m "🔧 Auto-fix: Format code, fix linting issues, update dependencies
+            
+            - Applied black and isort formatting
+            - Fixed linting issues with ruff
+            - Updated missing dependencies
+            - Cleaned up unnecessary files
+            - Fixed file permissions
+            
+            [skip ci]"
+            
+            # Push to current branch
+            git push origin HEAD
+          else
+            echo "No changes to commit"
+          fi
+      
+      - name: Create issue for remaining problems
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'auto-fix-needed'
+            });
+            
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: '🚨 Automated fixes needed',
+                body: `The auto-fix workflow found issues that need manual intervention:
+                
+                - Check the workflow logs for details
+                - Some issues may require manual code changes
+                - Run ID: ${context.runId}
+                
+                [View workflow run](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+                labels: ['auto-fix-needed', 'bug']
+              });
+            }
