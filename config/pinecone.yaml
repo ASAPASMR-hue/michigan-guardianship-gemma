@@ -1,0 +1,85 @@
+ab_testing:
+  comparison_baseline: chromadb
+  enabled: true
+  metrics:
+  - precision_at_k
+  - recall_at_k
+  - mrr
+  - ndcg
+  - semantic_similarity
+  test_queries_file: integration_tests/golden_queries.json
+embedding_config:
+  batch_size: 100
+  dimension: 768
+  model: models/text-embedding-004
+  normalize: true
+  provider: google
+  retry_attempts: 3
+  retry_delay: 2
+  task_type: retrieval_document
+  timeout: 30
+filter_presets:
+  complex_cases:
+    complexity_level: complex
+  emergency_procedures:
+    is_emergency: true
+  filing_requirements:
+    topic: filing_requirements
+  forms_only:
+    doc_type: form
+  icwa_related:
+    has_icwa_content: true
+  procedures_only:
+    doc_type: procedure
+index_config:
+  dimension: 768
+  metric: cosine
+  name: michigan-guardianship-v2
+  namespace: genesee-county
+  pod_type: starter
+  serverless:
+    cloud: aws
+    region: us-east-1
+metadata_schema:
+  chunk_id: string
+  chunk_index: integer
+  chunk_summary: string
+  complexity_level: string
+  content_length: integer
+  deadlines: string
+  doc_type: string
+  fees: string
+  form_numbers: string
+  has_icwa_content: boolean
+  is_emergency: boolean
+  jurisdiction: string
+  last_updated: string
+  source: string
+  statutes: string
+  target_audience: string
+  topic: string
+migration_settings:
+  batch_processing:
+    chunks_per_batch: 100
+    documents_per_batch: 10
+    embedding_batch_size: 50
+    retry_attempts: 3
+    retry_delay: 2
+  checkpoint:
+    checkpoint_dir: .claude/migration_checkpoints
+    enabled: true
+    save_interval: 10
+  chunk_summarization:
+    enabled: true
+    fallback_to_truncation: true
+    max_summary_length: 128
+    model_provider: local
+    prompt: Summarize this legal document chunk in 1-2 sentences, focusing on key
+      procedures, requirements, or deadlines.
+  duplicate_handling:
+    id_format: '{source}_{chunk_id}_{hash}'
+    strategy: upsert
+performance_targets:
+  context_rot_reduction: 15%
+  query_latency_reduction: 20%
+  retrieval_recall_improvement: 15-25%
